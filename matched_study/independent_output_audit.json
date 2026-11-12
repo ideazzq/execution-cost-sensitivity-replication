@@ -1,0 +1,1290 @@
+{
+  "runs_checked": 160,
+  "source_pairs": 80,
+  "observation_pairs": 80,
+  "policy_comparisons": 80,
+  "groups": 16,
+  "all_pass": true,
+  "records": [
+    {
+      "run_id": "000_bpic2017_P_removal_off_r04",
+      "count": 25,
+      "gain": 98.36561046175366,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "001_bpic2017_CP_removal_on_r04",
+      "count": 25,
+      "gain": 117.12964608158231,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "002_bpic2017_P_history_on_r04",
+      "count": 50,
+      "gain": 409.9062127679953,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": false
+    },
+    {
+      "run_id": "003_bpic2017_CP_removal_off_r04",
+      "count": 25,
+      "gain": 117.12964608158231,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "004_bpic2017_P_removal_on_r04",
+      "count": 25,
+      "gain": 98.36561046175366,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "005_bpic2017_CP_history_on_r04",
+      "count": 50,
+      "gain": 414.83352065757884,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": false
+    },
+    {
+      "run_id": "006_bpic2017_CP_history_off_r04",
+      "count": 51,
+      "gain": 432.16115035872366,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": false
+    },
+    {
+      "run_id": "007_bpic2017_P_history_off_r04",
+      "count": 50,
+      "gain": 413.6615532479827,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": false
+    },
+    {
+      "run_id": "008_bpic2012_CP_history_on_r03",
+      "count": 25,
+      "gain": 18.992588143219724,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "009_bpic2012_CP_removal_off_r03",
+      "count": 25,
+      "gain": 18.992588143219724,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "010_bpic2012_CP_history_off_r03",
+      "count": 25,
+      "gain": 18.992588143219724,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "011_bpic2012_CP_removal_on_r03",
+      "count": 25,
+      "gain": 18.992588143219724,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "012_bpic2012_P_removal_on_r03",
+      "count": 25,
+      "gain": 16.546001571440883,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "013_bpic2012_P_removal_off_r03",
+      "count": 25,
+      "gain": 16.546001571440883,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "014_bpic2012_P_history_on_r03",
+      "count": 25,
+      "gain": 16.546001571440883,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "015_bpic2012_P_history_off_r03",
+      "count": 25,
+      "gain": 16.546001571440883,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "016_bpic2017_P_history_on_r08",
+      "count": 50,
+      "gain": 409.8066262891083,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": false
+    },
+    {
+      "run_id": "017_bpic2017_P_removal_off_r08",
+      "count": 25,
+      "gain": 98.36561046175366,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "018_bpic2017_CP_removal_off_r08",
+      "count": 25,
+      "gain": 117.12964608158231,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "019_bpic2017_CP_history_on_r08",
+      "count": 51,
+      "gain": 432.16115035872366,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": false
+    },
+    {
+      "run_id": "020_bpic2017_P_removal_on_r08",
+      "count": 25,
+      "gain": 98.36561046175366,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "021_bpic2017_P_history_off_r08",
+      "count": 50,
+      "gain": 411.8948797484936,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": false
+    },
+    {
+      "run_id": "022_bpic2017_CP_history_off_r08",
+      "count": 51,
+      "gain": 432.16115035872366,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": false
+    },
+    {
+      "run_id": "023_bpic2017_CP_removal_on_r08",
+      "count": 25,
+      "gain": 117.12964608158231,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "024_bpic2012_P_removal_on_r10",
+      "count": 25,
+      "gain": 16.546001571440883,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "025_bpic2012_P_removal_off_r10",
+      "count": 25,
+      "gain": 16.546001571440883,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "026_bpic2012_P_history_on_r10",
+      "count": 25,
+      "gain": 16.546001571440883,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "027_bpic2012_CP_history_on_r10",
+      "count": 25,
+      "gain": 18.992588143219724,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "028_bpic2012_CP_removal_on_r10",
+      "count": 25,
+      "gain": 18.992588143219724,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "029_bpic2012_P_history_off_r10",
+      "count": 25,
+      "gain": 16.546001571440883,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "030_bpic2012_CP_history_off_r10",
+      "count": 25,
+      "gain": 18.992588143219724,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "031_bpic2012_CP_removal_off_r10",
+      "count": 25,
+      "gain": 18.992588143219724,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "032_bpic2017_P_history_on_r09",
+      "count": 50,
+      "gain": 411.8948797484936,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": false
+    },
+    {
+      "run_id": "033_bpic2017_CP_history_on_r09",
+      "count": 54,
+      "gain": 478.7904037629099,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": false
+    },
+    {
+      "run_id": "034_bpic2017_P_removal_on_r09",
+      "count": 25,
+      "gain": 98.36561046175366,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "035_bpic2017_CP_removal_on_r09",
+      "count": 25,
+      "gain": 117.12964608158231,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "036_bpic2017_CP_removal_off_r09",
+      "count": 25,
+      "gain": 117.12964608158231,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "037_bpic2017_P_removal_off_r09",
+      "count": 25,
+      "gain": 98.36561046175366,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "038_bpic2017_P_history_off_r09",
+      "count": 50,
+      "gain": 413.6615532479827,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": false
+    },
+    {
+      "run_id": "039_bpic2017_CP_history_off_r09",
+      "count": 50,
+      "gain": 439.0546821203047,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": false
+    },
+    {
+      "run_id": "040_bpic2012_CP_history_off_r04",
+      "count": 25,
+      "gain": 18.992588143219724,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "041_bpic2012_P_removal_off_r04",
+      "count": 25,
+      "gain": 16.546001571440883,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "042_bpic2012_CP_removal_off_r04",
+      "count": 25,
+      "gain": 18.992588143219724,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "043_bpic2012_P_removal_on_r04",
+      "count": 25,
+      "gain": 16.546001571440883,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "044_bpic2012_P_history_off_r04",
+      "count": 25,
+      "gain": 16.546001571440883,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "045_bpic2012_P_history_on_r04",
+      "count": 25,
+      "gain": 16.546001571440883,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "046_bpic2012_CP_removal_on_r04",
+      "count": 25,
+      "gain": 18.992588143219724,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "047_bpic2012_CP_history_on_r04",
+      "count": 25,
+      "gain": 18.992588143219724,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "048_bpic2017_CP_history_off_r02",
+      "count": 50,
+      "gain": 414.83352065757884,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": false
+    },
+    {
+      "run_id": "049_bpic2017_CP_history_on_r02",
+      "count": 55,
+      "gain": 490.04751668646725,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": false
+    },
+    {
+      "run_id": "050_bpic2017_P_history_off_r02",
+      "count": 50,
+      "gain": 411.84633969905065,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": false
+    },
+    {
+      "run_id": "051_bpic2017_P_removal_off_r02",
+      "count": 25,
+      "gain": 98.36561046175366,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "052_bpic2017_CP_removal_on_r02",
+      "count": 25,
+      "gain": 117.12964608158231,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "053_bpic2017_CP_removal_off_r02",
+      "count": 25,
+      "gain": 117.12964608158231,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "054_bpic2017_P_history_on_r02",
+      "count": 50,
+      "gain": 403.21651743946785,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": false
+    },
+    {
+      "run_id": "055_bpic2017_P_removal_on_r02",
+      "count": 25,
+      "gain": 98.36561046175366,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "056_bpic2012_P_removal_on_r01",
+      "count": 25,
+      "gain": 16.546001571440883,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "057_bpic2012_CP_removal_on_r01",
+      "count": 25,
+      "gain": 18.992588143219724,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "058_bpic2012_P_history_on_r01",
+      "count": 25,
+      "gain": 16.546001571440883,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "059_bpic2012_P_removal_off_r01",
+      "count": 25,
+      "gain": 16.546001571440883,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "060_bpic2012_P_history_off_r01",
+      "count": 25,
+      "gain": 16.546001571440883,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "061_bpic2012_CP_history_on_r01",
+      "count": 25,
+      "gain": 18.992588143219724,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "062_bpic2012_CP_removal_off_r01",
+      "count": 25,
+      "gain": 18.992588143219724,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "063_bpic2012_CP_history_off_r01",
+      "count": 25,
+      "gain": 18.992588143219724,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "064_bpic2017_CP_removal_off_r07",
+      "count": 25,
+      "gain": 117.12964608158231,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "065_bpic2017_CP_history_on_r07",
+      "count": 74,
+      "gain": 678.6823167676595,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": false
+    },
+    {
+      "run_id": "066_bpic2017_P_history_on_r07",
+      "count": 50,
+      "gain": 399.4386166002765,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": false
+    },
+    {
+      "run_id": "067_bpic2017_P_history_off_r07",
+      "count": 50,
+      "gain": 414.7883721341902,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": false
+    },
+    {
+      "run_id": "068_bpic2017_P_removal_on_r07",
+      "count": 25,
+      "gain": 98.36561046175366,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "069_bpic2017_CP_removal_on_r07",
+      "count": 25,
+      "gain": 117.12964608158231,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "070_bpic2017_P_removal_off_r07",
+      "count": 25,
+      "gain": 98.36561046175366,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "071_bpic2017_CP_history_off_r07",
+      "count": 50,
+      "gain": 414.83352065757884,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": false
+    },
+    {
+      "run_id": "072_bpic2012_P_history_off_r02",
+      "count": 25,
+      "gain": 16.546001571440883,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "073_bpic2012_CP_removal_off_r02",
+      "count": 25,
+      "gain": 18.992588143219724,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "074_bpic2012_CP_removal_on_r02",
+      "count": 25,
+      "gain": 18.992588143219724,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "075_bpic2012_P_history_on_r02",
+      "count": 25,
+      "gain": 16.546001571440883,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "076_bpic2012_P_removal_on_r02",
+      "count": 25,
+      "gain": 16.546001571440883,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "077_bpic2012_P_removal_off_r02",
+      "count": 25,
+      "gain": 16.546001571440883,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "078_bpic2012_CP_history_on_r02",
+      "count": 25,
+      "gain": 18.992588143219724,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "079_bpic2012_CP_history_off_r02",
+      "count": 25,
+      "gain": 18.992588143219724,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "080_bpic2017_CP_removal_on_r01",
+      "count": 25,
+      "gain": 117.12964608158231,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "081_bpic2017_CP_history_on_r01",
+      "count": 75,
+      "gain": 687.9747575401002,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": false
+    },
+    {
+      "run_id": "082_bpic2017_P_history_on_r01",
+      "count": 50,
+      "gain": 411.8948797484936,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": false
+    },
+    {
+      "run_id": "083_bpic2017_CP_removal_off_r01",
+      "count": 25,
+      "gain": 117.12964608158231,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "084_bpic2017_P_history_off_r01",
+      "count": 50,
+      "gain": 412.93877203219665,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": false
+    },
+    {
+      "run_id": "085_bpic2017_P_removal_off_r01",
+      "count": 25,
+      "gain": 98.36561046175366,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "086_bpic2017_CP_history_off_r01",
+      "count": 50,
+      "gain": 414.83352065757884,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": false
+    },
+    {
+      "run_id": "087_bpic2017_P_removal_on_r01",
+      "count": 25,
+      "gain": 98.36561046175366,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "088_bpic2017_P_history_off_r05",
+      "count": 50,
+      "gain": 413.6615532479827,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": false
+    },
+    {
+      "run_id": "089_bpic2017_CP_removal_on_r05",
+      "count": 25,
+      "gain": 117.12964608158231,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "090_bpic2017_CP_removal_off_r05",
+      "count": 25,
+      "gain": 117.12964608158231,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "091_bpic2017_P_history_on_r05",
+      "count": 50,
+      "gain": 405.82526524400527,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": false
+    },
+    {
+      "run_id": "092_bpic2017_CP_history_off_r05",
+      "count": 50,
+      "gain": 414.83352065757884,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": false
+    },
+    {
+      "run_id": "093_bpic2017_P_removal_off_r05",
+      "count": 25,
+      "gain": 98.36561046175366,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "094_bpic2017_P_removal_on_r05",
+      "count": 25,
+      "gain": 98.36561046175366,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "095_bpic2017_CP_history_on_r05",
+      "count": 50,
+      "gain": 414.83352065757884,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": false
+    },
+    {
+      "run_id": "096_bpic2012_P_removal_off_r06",
+      "count": 25,
+      "gain": 16.546001571440883,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "097_bpic2012_P_history_off_r06",
+      "count": 25,
+      "gain": 16.546001571440883,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "098_bpic2012_P_removal_on_r06",
+      "count": 25,
+      "gain": 16.546001571440883,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "099_bpic2012_CP_removal_on_r06",
+      "count": 25,
+      "gain": 18.992588143219724,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "100_bpic2012_P_history_on_r06",
+      "count": 25,
+      "gain": 16.546001571440883,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "101_bpic2012_CP_history_on_r06",
+      "count": 25,
+      "gain": 18.992588143219724,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "102_bpic2012_CP_removal_off_r06",
+      "count": 25,
+      "gain": 18.992588143219724,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "103_bpic2012_CP_history_off_r06",
+      "count": 25,
+      "gain": 18.992588143219724,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "104_bpic2012_P_history_on_r07",
+      "count": 25,
+      "gain": 16.546001571440883,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "105_bpic2012_CP_history_on_r07",
+      "count": 25,
+      "gain": 18.992588143219724,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "106_bpic2012_P_removal_on_r07",
+      "count": 25,
+      "gain": 16.546001571440883,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "107_bpic2012_CP_history_off_r07",
+      "count": 25,
+      "gain": 18.992588143219724,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "108_bpic2012_P_removal_off_r07",
+      "count": 25,
+      "gain": 16.546001571440883,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "109_bpic2012_CP_removal_off_r07",
+      "count": 25,
+      "gain": 18.992588143219724,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "110_bpic2012_CP_removal_on_r07",
+      "count": 25,
+      "gain": 18.992588143219724,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "111_bpic2012_P_history_off_r07",
+      "count": 25,
+      "gain": 16.546001571440883,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "112_bpic2012_P_history_on_r09",
+      "count": 25,
+      "gain": 16.546001571440883,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "113_bpic2012_CP_history_on_r09",
+      "count": 25,
+      "gain": 18.992588143219724,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "114_bpic2012_P_removal_on_r09",
+      "count": 25,
+      "gain": 16.546001571440883,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "115_bpic2012_CP_removal_on_r09",
+      "count": 25,
+      "gain": 18.992588143219724,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "116_bpic2012_CP_removal_off_r09",
+      "count": 25,
+      "gain": 18.992588143219724,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "117_bpic2012_P_removal_off_r09",
+      "count": 25,
+      "gain": 16.546001571440883,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "118_bpic2012_CP_history_off_r09",
+      "count": 25,
+      "gain": 18.992588143219724,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "119_bpic2012_P_history_off_r09",
+      "count": 25,
+      "gain": 16.546001571440883,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "120_bpic2017_CP_removal_on_r10",
+      "count": 25,
+      "gain": 117.12964608158231,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "121_bpic2017_P_history_off_r10",
+      "count": 50,
+      "gain": 412.5710456046518,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": false
+    },
+    {
+      "run_id": "122_bpic2017_CP_history_off_r10",
+      "count": 50,
+      "gain": 414.83352065757884,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": false
+    },
+    {
+      "run_id": "123_bpic2017_CP_removal_off_r10",
+      "count": 25,
+      "gain": 117.12964608158231,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "124_bpic2017_P_removal_off_r10",
+      "count": 25,
+      "gain": 98.36561046175366,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "125_bpic2017_P_history_on_r10",
+      "count": 50,
+      "gain": 399.4386166002765,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": false
+    },
+    {
+      "run_id": "126_bpic2017_P_removal_on_r10",
+      "count": 25,
+      "gain": 98.36561046175366,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "127_bpic2017_CP_history_on_r10",
+      "count": 75,
+      "gain": 687.9747575401002,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": false
+    },
+    {
+      "run_id": "128_bpic2017_CP_removal_on_r03",
+      "count": 25,
+      "gain": 117.12964608158231,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "129_bpic2017_P_removal_off_r03",
+      "count": 25,
+      "gain": 98.36561046175366,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "130_bpic2017_P_history_on_r03",
+      "count": 50,
+      "gain": 402.1185251409782,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": false
+    },
+    {
+      "run_id": "131_bpic2017_CP_removal_off_r03",
+      "count": 25,
+      "gain": 117.12964608158231,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "132_bpic2017_CP_history_on_r03",
+      "count": 61,
+      "gain": 551.7751441069275,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": false
+    },
+    {
+      "run_id": "133_bpic2017_P_history_off_r03",
+      "count": 50,
+      "gain": 413.6615532479827,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": false
+    },
+    {
+      "run_id": "134_bpic2017_P_removal_on_r03",
+      "count": 25,
+      "gain": 98.36561046175366,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "135_bpic2017_CP_history_off_r03",
+      "count": 52,
+      "gain": 448.2065420067662,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": false
+    },
+    {
+      "run_id": "136_bpic2017_CP_removal_on_r06",
+      "count": 25,
+      "gain": 117.12964608158231,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "137_bpic2017_P_removal_off_r06",
+      "count": 25,
+      "gain": 98.36561046175366,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "138_bpic2017_CP_history_off_r06",
+      "count": 50,
+      "gain": 414.83352065757884,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": false
+    },
+    {
+      "run_id": "139_bpic2017_P_history_off_r06",
+      "count": 50,
+      "gain": 419.51688863414375,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": false
+    },
+    {
+      "run_id": "140_bpic2017_CP_removal_off_r06",
+      "count": 25,
+      "gain": 117.12964608158231,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "141_bpic2017_CP_history_on_r06",
+      "count": 51,
+      "gain": 432.16115035872366,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": false
+    },
+    {
+      "run_id": "142_bpic2017_P_removal_on_r06",
+      "count": 25,
+      "gain": 98.36561046175366,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "143_bpic2017_P_history_on_r06",
+      "count": 50,
+      "gain": 404.8215872083775,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": false
+    },
+    {
+      "run_id": "144_bpic2012_CP_history_on_r05",
+      "count": 25,
+      "gain": 18.992588143219724,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "145_bpic2012_CP_removal_off_r05",
+      "count": 25,
+      "gain": 18.992588143219724,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "146_bpic2012_CP_removal_on_r05",
+      "count": 25,
+      "gain": 18.992588143219724,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "147_bpic2012_P_removal_off_r05",
+      "count": 25,
+      "gain": 16.546001571440883,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "148_bpic2012_P_history_off_r05",
+      "count": 25,
+      "gain": 16.546001571440883,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "149_bpic2012_P_removal_on_r05",
+      "count": 25,
+      "gain": 16.546001571440883,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "150_bpic2012_CP_history_off_r05",
+      "count": 25,
+      "gain": 18.992588143219724,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "151_bpic2012_P_history_on_r05",
+      "count": 25,
+      "gain": 16.546001571440883,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "152_bpic2012_P_removal_off_r08",
+      "count": 25,
+      "gain": 16.546001571440883,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "153_bpic2012_CP_history_on_r08",
+      "count": 25,
+      "gain": 18.992588143219724,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "154_bpic2012_P_history_on_r08",
+      "count": 25,
+      "gain": 16.546001571440883,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "155_bpic2012_P_history_off_r08",
+      "count": 25,
+      "gain": 16.546001571440883,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "156_bpic2012_CP_history_off_r08",
+      "count": 25,
+      "gain": 18.992588143219724,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "157_bpic2012_P_removal_on_r08",
+      "count": 25,
+      "gain": 16.546001571440883,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "158_bpic2012_CP_removal_off_r08",
+      "count": 25,
+      "gain": 18.992588143219724,
+      "status": "PASS",
+      "trace_checked": false,
+      "no_release_reference_checked": true
+    },
+    {
+      "run_id": "159_bpic2012_CP_removal_on_r08",
+      "count": 25,
+      "gain": 18.992588143219724,
+      "status": "PASS",
+      "trace_checked": true,
+      "no_release_reference_checked": true
+    }
+  ]
+}

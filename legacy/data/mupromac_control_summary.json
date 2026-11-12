@@ -1,0 +1,99 @@
+{
+  "repository": {
+    "repository": "https://github.com/KiriBu10/MuProMAC",
+    "commit": "38a46e29182a2651c3ab44f0718adc2892d3114a",
+    "raw_base": "https://raw.githubusercontent.com/KiriBu10/MuProMAC/38a46e29182a2651c3ab44f0718adc2892d3114a/",
+    "purpose": "Independent FIFO logical-clock control, upstream quick-test configuration"
+  },
+  "configuration": "FIFO, lambda 0.2, bpi2020_2processes_massive_share, horizon 500",
+  "paired_requested_host_delay_seconds": [
+    0,
+    0.001
+  ],
+  "pairs": [
+    {
+      "seed": 11,
+      "classification": "EXACT_INVARIANCE_OBSERVED",
+      "final_rng_equal": true,
+      "files": {
+        "logical_trace.jsonl": {
+          "left_bytes": 2957403,
+          "right_bytes": 2957403,
+          "left_sha256": "4d76b46ffde9f130d6dd9a69ab4fbaf280e322ab9d3a80592c77ec19a0845137",
+          "right_sha256": "4d76b46ffde9f130d6dd9a69ab4fbaf280e322ab9d3a80592c77ec19a0845137",
+          "exact_equal": true
+        },
+        "results\\FIFO_l0.2_bpi2020_2processes_massive_share.csv": {
+          "left_bytes": 353241,
+          "right_bytes": 353241,
+          "left_sha256": "16b421120c86ff6525a34ab47dffd9c938bf3027d5a0f6287c24f8aaef9df5fc",
+          "right_sha256": "16b421120c86ff6525a34ab47dffd9c938bf3027d5a0f6287c24f8aaef9df5fc",
+          "exact_equal": true
+        },
+        "event_logs\\test\\log_FIFO_run0_default.csv": {
+          "left_bytes": 284838,
+          "right_bytes": 284838,
+          "left_sha256": "356f1cadd0c789eef6c45773fd63b588996724068e13ef7c0665417e06294074",
+          "right_sha256": "356f1cadd0c789eef6c45773fd63b588996724068e13ef7c0665417e06294074",
+          "exact_equal": true
+        }
+      }
+    },
+    {
+      "seed": 23,
+      "classification": "EXACT_INVARIANCE_OBSERVED",
+      "final_rng_equal": true,
+      "files": {
+        "logical_trace.jsonl": {
+          "left_bytes": 3528973,
+          "right_bytes": 3528973,
+          "left_sha256": "20db07fe8816f39cceb7d67e25dd3a029f23ff340deeb845f5dce4dc4513cc6d",
+          "right_sha256": "20db07fe8816f39cceb7d67e25dd3a029f23ff340deeb845f5dce4dc4513cc6d",
+          "exact_equal": true
+        },
+        "results\\FIFO_l0.2_bpi2020_2processes_massive_share.csv": {
+          "left_bytes": 421489,
+          "right_bytes": 421489,
+          "left_sha256": "5909dc1157284b4b9efbe5c69d6ff5587082f0546c47e37f718a5c6682c93a59",
+          "right_sha256": "5909dc1157284b4b9efbe5c69d6ff5587082f0546c47e37f718a5c6682c93a59",
+          "exact_equal": true
+        },
+        "event_logs\\test\\log_FIFO_run0_default.csv": {
+          "left_bytes": 339856,
+          "right_bytes": 339856,
+          "left_sha256": "e5f15cee58a1fc47e3da89ee82d55726857f99fc8224f400600eae611a917848",
+          "right_sha256": "e5f15cee58a1fc47e3da89ee82d55726857f99fc8224f400600eae611a917848",
+          "exact_equal": true
+        }
+      }
+    },
+    {
+      "seed": 47,
+      "classification": "EXACT_INVARIANCE_OBSERVED",
+      "final_rng_equal": true,
+      "files": {
+        "logical_trace.jsonl": {
+          "left_bytes": 3192266,
+          "right_bytes": 3192266,
+          "left_sha256": "ae0c0c37ccf5a1a231c3c20a14a4a2c1e27364a3131c1fb8fa33d36b35bbdeab",
+          "right_sha256": "ae0c0c37ccf5a1a231c3c20a14a4a2c1e27364a3131c1fb8fa33d36b35bbdeab",
+          "exact_equal": true
+        },
+        "results\\FIFO_l0.2_bpi2020_2processes_massive_share.csv": {
+          "left_bytes": 382889,
+          "right_bytes": 382889,
+          "left_sha256": "09dbbe791051762a3ce9403493642068ea199cdad0f9c96dda754df80bc570d3",
+          "right_sha256": "09dbbe791051762a3ce9403493642068ea199cdad0f9c96dda754df80bc570d3",
+          "exact_equal": true
+        },
+        "event_logs\\test\\log_FIFO_run0_default.csv": {
+          "left_bytes": 308851,
+          "right_bytes": 308851,
+          "left_sha256": "bd030fe64115fd6474393c396dea0359b6b0344f489ea38deb1f77b0f82d3073",
+          "right_sha256": "bd030fe64115fd6474393c396dea0359b6b0344f489ea38deb1f77b0f82d3073",
+          "exact_equal": true
+        }
+      }
+    }
+  ]
+}

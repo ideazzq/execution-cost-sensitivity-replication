@@ -1,0 +1,330 @@
+{
+  "type": "constructed deterministic timing example",
+  "interpretation": "Assigned host observation calendars illustrate possible elapsed-time schedules. They are analytical inputs to the reference, not measured host timings.",
+  "original_fixtures_passed": 8,
+  "reference_sha256": "e85d788ca203a153802a7ecc74a9f523e752f6de8e6303b3831b98be5ebd5029",
+  "rows": [
+    {
+      "case_id": "A",
+      "prefix_nr": "1",
+      "activity": "activity_1",
+      "CATE": "0.2",
+      "predicted_proba_1": "0.9",
+      "alpha=0.9": "[1]"
+    },
+    {
+      "case_id": "B",
+      "prefix_nr": "1",
+      "activity": "activity_1",
+      "CATE": "0.4",
+      "predicted_proba_1": "0.9",
+      "alpha=0.9": "[1]"
+    },
+    {
+      "case_id": "B",
+      "prefix_nr": "2",
+      "activity": "activity_2",
+      "CATE": "0.5",
+      "predicted_proba_1": "0.9",
+      "alpha=0.9": "[1]"
+    }
+  ],
+  "fixed_arrival_calendar": [
+    0,
+    0.2,
+    1.2
+  ],
+  "fixed_result": {
+    "contract": {
+      "policy": "proba_cate",
+      "resources": 1,
+      "duration": 1,
+      "horizon": null,
+      "probability_threshold": 0.5,
+      "alpha_column": "alpha=0.9",
+      "benefit": 20.0,
+      "intervention_cost": 1.0,
+      "tie_rule": "Candidate insertion order; same-time releases ordered by resource ID",
+      "dispatch": "At most one assignment after an eligible unserved input prefix",
+      "cutoff": "After the last input row; pending queue and resource completions retained"
+    },
+    "rows": 3,
+    "eof_logical_seconds": 1.2,
+    "summary": {
+      "count": 2,
+      "gain": 12.0,
+      "mean_gain": 6.0
+    },
+    "allocations": [
+      {
+        "case_id": "A",
+        "prefix_nr": "1",
+        "activity": "activity_1",
+        "selected_row_id": 0,
+        "trigger_row_id": 0,
+        "resource": 1,
+        "logical_seconds": 0,
+        "gain": 3.0,
+        "CATE": 0.2
+      },
+      {
+        "case_id": "B",
+        "prefix_nr": "2",
+        "activity": "activity_2",
+        "selected_row_id": 2,
+        "trigger_row_id": 2,
+        "resource": 1,
+        "logical_seconds": 1.2,
+        "gain": 9.0,
+        "CATE": 0.5
+      }
+    ],
+    "resource_events": [
+      {
+        "kind": "resource_allocate",
+        "row_id": 0,
+        "logical_seconds": 0,
+        "resource": 1,
+        "free": []
+      },
+      {
+        "kind": "resource_release",
+        "row_id": 2,
+        "logical_seconds": 1.2,
+        "scheduled_release_seconds": 1,
+        "resource": 1,
+        "free": [
+          1
+        ]
+      },
+      {
+        "kind": "resource_allocate",
+        "row_id": 2,
+        "logical_seconds": 1.2,
+        "resource": 1,
+        "free": []
+      }
+    ],
+    "queue_at_eof": 0,
+    "free": [],
+    "busy": [
+      1
+    ],
+    "scheduled_completions_after_eof": [
+      {
+        "time": 2.2,
+        "resource": 1
+      }
+    ]
+  },
+  "cost_only_reference_output_equal": true,
+  "fast_host_calendar": [
+    0,
+    0.2,
+    0.4
+  ],
+  "fast_host_result": {
+    "contract": {
+      "policy": "proba_cate",
+      "resources": 1,
+      "duration": 1,
+      "horizon": null,
+      "probability_threshold": 0.5,
+      "alpha_column": "alpha=0.9",
+      "benefit": 20.0,
+      "intervention_cost": 1.0,
+      "tie_rule": "Candidate insertion order; same-time releases ordered by resource ID",
+      "dispatch": "At most one assignment after an eligible unserved input prefix",
+      "cutoff": "After the last input row; pending queue and resource completions retained"
+    },
+    "rows": 3,
+    "eof_logical_seconds": 0.4,
+    "summary": {
+      "count": 1,
+      "gain": 3.0,
+      "mean_gain": 3.0
+    },
+    "allocations": [
+      {
+        "case_id": "A",
+        "prefix_nr": "1",
+        "activity": "activity_1",
+        "selected_row_id": 0,
+        "trigger_row_id": 0,
+        "resource": 1,
+        "logical_seconds": 0,
+        "gain": 3.0,
+        "CATE": 0.2
+      }
+    ],
+    "resource_events": [
+      {
+        "kind": "resource_allocate",
+        "row_id": 0,
+        "logical_seconds": 0,
+        "resource": 1,
+        "free": []
+      }
+    ],
+    "queue_at_eof": 1,
+    "free": [],
+    "busy": [
+      1
+    ],
+    "scheduled_completions_after_eof": [
+      {
+        "time": 1,
+        "resource": 1
+      }
+    ]
+  },
+  "slow_host_calendar": [
+    0,
+    0.2,
+    1.2
+  ],
+  "slow_host_result": {
+    "contract": {
+      "policy": "proba_cate",
+      "resources": 1,
+      "duration": 1,
+      "horizon": null,
+      "probability_threshold": 0.5,
+      "alpha_column": "alpha=0.9",
+      "benefit": 20.0,
+      "intervention_cost": 1.0,
+      "tie_rule": "Candidate insertion order; same-time releases ordered by resource ID",
+      "dispatch": "At most one assignment after an eligible unserved input prefix",
+      "cutoff": "After the last input row; pending queue and resource completions retained"
+    },
+    "rows": 3,
+    "eof_logical_seconds": 1.2,
+    "summary": {
+      "count": 2,
+      "gain": 12.0,
+      "mean_gain": 6.0
+    },
+    "allocations": [
+      {
+        "case_id": "A",
+        "prefix_nr": "1",
+        "activity": "activity_1",
+        "selected_row_id": 0,
+        "trigger_row_id": 0,
+        "resource": 1,
+        "logical_seconds": 0,
+        "gain": 3.0,
+        "CATE": 0.2
+      },
+      {
+        "case_id": "B",
+        "prefix_nr": "2",
+        "activity": "activity_2",
+        "selected_row_id": 2,
+        "trigger_row_id": 2,
+        "resource": 1,
+        "logical_seconds": 1.2,
+        "gain": 9.0,
+        "CATE": 0.5
+      }
+    ],
+    "resource_events": [
+      {
+        "kind": "resource_allocate",
+        "row_id": 0,
+        "logical_seconds": 0,
+        "resource": 1,
+        "free": []
+      },
+      {
+        "kind": "resource_release",
+        "row_id": 2,
+        "logical_seconds": 1.2,
+        "scheduled_release_seconds": 1,
+        "resource": 1,
+        "free": [
+          1
+        ]
+      },
+      {
+        "kind": "resource_allocate",
+        "row_id": 2,
+        "logical_seconds": 1.2,
+        "resource": 1,
+        "free": []
+      }
+    ],
+    "queue_at_eof": 0,
+    "free": [],
+    "busy": [
+      1
+    ],
+    "scheduled_completions_after_eof": [
+      {
+        "time": 2.2,
+        "resource": 1
+      }
+    ]
+  },
+  "already_served_final_trigger_result": {
+    "contract": {
+      "policy": "proba_cate",
+      "resources": 1,
+      "duration": 1,
+      "horizon": null,
+      "probability_threshold": 0.5,
+      "alpha_column": "alpha=0.9",
+      "benefit": 20.0,
+      "intervention_cost": 1.0,
+      "tie_rule": "Candidate insertion order; same-time releases ordered by resource ID",
+      "dispatch": "At most one assignment after an eligible unserved input prefix",
+      "cutoff": "After the last input row; pending queue and resource completions retained"
+    },
+    "rows": 3,
+    "eof_logical_seconds": 1.2,
+    "summary": {
+      "count": 1,
+      "gain": 3.0,
+      "mean_gain": 3.0
+    },
+    "allocations": [
+      {
+        "case_id": "A",
+        "prefix_nr": "1",
+        "activity": "activity_1",
+        "selected_row_id": 0,
+        "trigger_row_id": 0,
+        "resource": 1,
+        "logical_seconds": 0,
+        "gain": 3.0,
+        "CATE": 0.2
+      }
+    ],
+    "resource_events": [
+      {
+        "kind": "resource_allocate",
+        "row_id": 0,
+        "logical_seconds": 0,
+        "resource": 1,
+        "free": []
+      },
+      {
+        "kind": "resource_release",
+        "row_id": 2,
+        "logical_seconds": 1.2,
+        "scheduled_release_seconds": 1,
+        "resource": 1,
+        "free": [
+          1
+        ]
+      }
+    ],
+    "queue_at_eof": 1,
+    "free": [
+      1
+    ],
+    "busy": [],
+    "scheduled_completions_after_eof": []
+  },
+  "all_pass": true
+}

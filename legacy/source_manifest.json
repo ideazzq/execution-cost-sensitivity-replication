@@ -1,0 +1,37 @@
+{
+  "manifest_version": 1,
+  "repositories": {
+    "prpm": {
+      "repository": "https://github.com/mshoush/conformal-prescriptive-monitoring",
+      "commit": "73dd48e3043ab49ea22a4cfade4379619b20def0",
+      "raw_base": "https://raw.githubusercontent.com/mshoush/conformal-prescriptive-monitoring/73dd48e3043ab49ea22a4cfade4379619b20def0/",
+      "purpose": "Original offline allocation runner and frozen published prediction streams"
+    },
+    "mupromac": {
+      "repository": "https://github.com/KiriBu10/MuProMAC",
+      "commit": "38a46e29182a2651c3ab44f0718adc2892d3114a",
+      "raw_base": "https://raw.githubusercontent.com/KiriBu10/MuProMAC/38a46e29182a2651c3ab44f0718adc2892d3114a/",
+      "purpose": "Independent FIFO logical-clock control, upstream quick-test configuration"
+    }
+  },
+  "files": [
+    {"group": "prpm", "repository_path": "run_experiments_all.py", "local_path": "prpm/source/run_experiments_all.py", "bytes": 9143, "sha256": "8ae7aab9f75e7c1d33166d1c46b20763dde94354da08fdb8606a7a851ecdbadb"},
+    {"group": "prpm", "repository_path": "FilterCases.py", "local_path": "prpm/source/FilterCases.py", "bytes": 3226, "sha256": "dd19f6d52e98f60126f3da3296c3844cdd2e8c243f2c30e681aa294026d82d7e"},
+    {"group": "prpm", "repository_path": "ResourceAllocator.py", "local_path": "prpm/source/ResourceAllocator.py", "bytes": 947, "sha256": "77f4e5555e3c4b5e024f132fa29e658d34104fa36be2be211881e00dd5297f04"},
+    {"group": "prpm", "repository_path": "estimateFutureScores.py", "local_path": "prpm/source/estimateFutureScores.py", "bytes": 1828, "sha256": "d6f2b7ee1e2506d3191238f66e45c7e6511fe6059cfca975a1dcaab452ad9870"},
+    {"group": "prpm", "repository_path": "results_conformal/bpic2012/df_final_adaptive_all.csv", "local_path": "prpm/data/bpic2012_adaptive.csv", "bytes": 6309586, "sha256": "a2b08c57ffec42f1f590329b96f11dddf3355d5ba31e1977350dd7be3c92cb47"},
+    {"group": "prpm", "repository_path": "results_conformal/bpic2017/df_final_adaptive_all.csv", "local_path": "prpm/data/bpic2017_adaptive.csv", "bytes": 8733938, "sha256": "c89e7f89d5361d9c53c895448d7d69f808475304068f4f72d8dd1eb200010d46"},
+    {"group": "prpm", "repository_path": "results_conformal/bpic2012/df_final_classBalanced_all.csv", "local_path": "prpm/data/bpic2012_classBalanced.csv", "bytes": 6341545, "sha256": "54d6ec7e285f78a3d4c82adbba125dae2cda93a6cafa39d558af47a9ad73c562", "git_blob": "58479df62fe69dc99543b3e2494b4b85b74245d8"},
+    {"group": "prpm", "repository_path": "results_conformal/bpic2017/df_final_classBalanced_all.csv", "local_path": "prpm/data/bpic2017_classBalanced.csv", "bytes": 9365397, "sha256": "074fee133c0ce17016f7a162cf43ea93f71adeb7dbc0f7b4b496d143a6c19146", "git_blob": "49ec85ab89ac70891c085029ffe3e647e4fc8b22"},
+    {"group": "mupromac", "repository_path": "README.md", "local_path": "mupromac/README.md", "bytes": 5803, "sha256": "f4a886c615751ac49cd65c43a420285264cf6381bbac1496d7229f309278f7c5"},
+    {"group": "mupromac", "repository_path": "fifo.py", "local_path": "mupromac/fifo.py", "bytes": 4886, "sha256": "abab931d7bd9282e79e20b7be4825ea5f5e8850c9689a763599129e2f187ca4e"},
+    {"group": "mupromac", "repository_path": "framework/__init__.py", "local_path": "mupromac/framework/__init__.py", "bytes": 0, "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"},
+    {"group": "mupromac", "repository_path": "framework/config.py", "local_path": "mupromac/framework/config.py", "bytes": 17326, "sha256": "65d7febd31baec43276f344315f57b537418e2cf4d28074a5eec3c89e606a4fd"},
+    {"group": "mupromac", "repository_path": "framework/config_training.py", "local_path": "mupromac/framework/config_training.py", "bytes": 191, "sha256": "4a94366aa9686e3fd905cb045e36fb5063de638461e212aa4f5d97c95172f88e"},
+    {"group": "mupromac", "repository_path": "framework/processes.py", "local_path": "mupromac/framework/processes.py", "bytes": 17993, "sha256": "6df3133ef72ddd6ee8d4c14d41ca72c98e5bdcdc1fd8f800be17377041f5eaae"},
+    {"group": "mupromac", "repository_path": "framework/result_helper.py", "local_path": "mupromac/framework/result_helper.py", "bytes": 54584, "sha256": "6ae599d5c798ad5d63cff7ecbff447bfeb77b0ad8565cb119fbf3be865f88128"},
+    {"group": "mupromac", "repository_path": "framework/rw_config_training.py", "local_path": "mupromac/framework/rw_config_training.py", "bytes": 164, "sha256": "35e12f28e5995926958436ccc0d98c1ffc656a47f51467c89459d8929b3fd2cd"},
+    {"group": "mupromac", "repository_path": "framework/simulator.py", "local_path": "mupromac/framework/simulator.py", "bytes": 17628, "sha256": "9cfbb4c720db2730306749bf999041f538f2d72987188be29882997a85b4f6df"},
+    {"group": "mupromac", "repository_path": "requirements.txt", "local_path": "mupromac/requirements.txt", "bytes": 126, "sha256": "fdc5a3ffcff3b6320042b8a711aab8b6197c2c88f17cfa949f8c6f2d99a61d60"}
+  ]
+}

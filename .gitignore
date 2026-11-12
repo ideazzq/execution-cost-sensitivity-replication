@@ -1,0 +1,13 @@
+# Python virtual environments & bytecode
+.venv/
+__pycache__/
+*.py[cod]
+
+# Downloaded upstream streams & generated source variants
+legacy/upstream/
+legacy/generated_variants/
+legacy/recomputed_tables/
+legacy/reproduced/
+legacy/verification.json
+matched_study/runner/sources/
+matched_study/runner/upstream/

@@ -1,0 +1,14 @@
+--- generated/history.py
++++ generated/removal.py
+@@ -201,10 +201,7 @@
+             else:
+                 print("Not valid mode")
+         else:
+-            if row in pre_rows_dict:
+-                pass
+-            else:
+-                pre_rows_dict.append(row)
++            pass
+ 
+ treated_cases['wallTime-min'] = ((time.time() - start_time) / 60)
+ df = pd.DataFrame()

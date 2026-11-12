@@ -1,0 +1,1856 @@
+{
+  "reported_runs_checked": 308,
+  "fixed_calendar_outputs_checked": 92,
+  "reference_conditions": 46,
+  "all_pass": true,
+  "records": [
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_conformal_R5_T30_wall_Hnone_history_r2",
+      "status": "PASS",
+      "count": 10,
+      "gain": 116.47015808741241
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_conformal_R5_T30_wall_Hnone_removal_r1",
+      "status": "PASS",
+      "count": 5,
+      "gain": 20.660268969993457
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_conformal_R1_T30_wall_Hnone_history_r0",
+      "status": "PASS",
+      "count": 2,
+      "gain": 38.55835079745964
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_R25_T30_wall_Hnone_removal_r1",
+      "status": "PASS",
+      "count": 25,
+      "gain": 16.546001571440883
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_conformal_R25_T30_wall_Hnone_removal_r1",
+      "status": "PASS",
+      "count": 25,
+      "gain": 17.739762840534137
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_conformal_R5_T30_wall_Hnone_removal_r2",
+      "status": "PASS",
+      "count": 5,
+      "gain": 20.660268969993457
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_R25_T30_wall_Hnone_history_r0",
+      "status": "PASS",
+      "count": 50,
+      "gain": 399.0782557811089
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_R1_T30_wall_Hnone_removal_r0",
+      "status": "PASS",
+      "count": 1,
+      "gain": 1.5339878399986508
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_conformal_R1_T30_wall_Hnone_history_r2",
+      "status": "PASS",
+      "count": 1,
+      "gain": 0.5869126199779875
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_R1_T30_wall_Hnone_removal_r1",
+      "status": "PASS",
+      "count": 1,
+      "gain": 1.5339878399986508
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_R25_T30_wall_Hnone_removal_r1",
+      "status": "PASS",
+      "count": 25,
+      "gain": 98.36561046175366
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_conformal_R25_T30_wall_Hnone_removal_r1",
+      "status": "PASS",
+      "count": 25,
+      "gain": 132.60825830065488
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_conformal_R5_T30_wall_Hnone_history_r0",
+      "status": "PASS",
+      "count": 10,
+      "gain": 114.90340255820792
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_R5_T30_wall_Hnone_removal_r1",
+      "status": "PASS",
+      "count": 5,
+      "gain": 13.313589334366089
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_R1_T30_wall_Hnone_removal_r0",
+      "status": "PASS",
+      "count": 1,
+      "gain": 0.4105272311208452
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_conformal_R5_T30_wall_Hnone_history_r1",
+      "status": "PASS",
+      "count": 10,
+      "gain": 116.47015808741241
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_conformal_R25_T30_wall_Hnone_history_r1",
+      "status": "PASS",
+      "count": 25,
+      "gain": 17.739762840534137
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_conformal_R1_T30_wall_Hnone_removal_r2",
+      "status": "PASS",
+      "count": 1,
+      "gain": 4.369523817938071
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_R1_T30_wall_Hnone_history_r2",
+      "status": "PASS",
+      "count": 2,
+      "gain": 17.259768646361966
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_conformal_R25_T30_wall_Hnone_removal_r2",
+      "status": "PASS",
+      "count": 25,
+      "gain": 132.60825830065488
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_conformal_R5_T30_wall_Hnone_removal_r1",
+      "status": "PASS",
+      "count": 5,
+      "gain": 3.301503681691199
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_R25_T30_wall_Hnone_removal_r2",
+      "status": "PASS",
+      "count": 25,
+      "gain": 98.36561046175366
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_conformal_R1_T30_wall_Hnone_removal_r1",
+      "status": "PASS",
+      "count": 1,
+      "gain": 0.5869126199779875
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_R1_T30_wall_Hnone_removal_r2",
+      "status": "PASS",
+      "count": 1,
+      "gain": 0.4105272311208452
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_conformal_R5_T30_wall_Hnone_removal_r2",
+      "status": "PASS",
+      "count": 5,
+      "gain": 3.301503681691199
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_R5_T30_wall_Hnone_removal_r0",
+      "status": "PASS",
+      "count": 5,
+      "gain": 2.516110958267646
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_conformal_R1_T30_wall_Hnone_history_r0",
+      "status": "PASS",
+      "count": 1,
+      "gain": 0.5869126199779875
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_R1_T30_wall_Hnone_history_r2",
+      "status": "PASS",
+      "count": 1,
+      "gain": 0.4105272311208452
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_conformal_R1_T30_wall_Hnone_removal_r1",
+      "status": "PASS",
+      "count": 1,
+      "gain": 4.369523817938071
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_conformal_R5_T30_wall_Hnone_history_r0",
+      "status": "PASS",
+      "count": 5,
+      "gain": 3.301503681691199
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_conformal_R5_T30_wall_Hnone_history_r1",
+      "status": "PASS",
+      "count": 5,
+      "gain": 3.301503681691199
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_conformal_R1_T30_wall_Hnone_history_r1",
+      "status": "PASS",
+      "count": 2,
+      "gain": 38.55835079745964
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_R5_T30_wall_Hnone_history_r0",
+      "status": "PASS",
+      "count": 10,
+      "gain": 86.3813569255361
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_conformal_R5_T30_wall_Hnone_removal_r0",
+      "status": "PASS",
+      "count": 5,
+      "gain": 3.301503681691199
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_conformal_R5_T30_wall_Hnone_history_r2",
+      "status": "PASS",
+      "count": 5,
+      "gain": 3.301503681691199
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_conformal_R1_T30_wall_Hnone_removal_r2",
+      "status": "PASS",
+      "count": 1,
+      "gain": 0.5869126199779875
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_R25_T30_wall_Hnone_history_r2",
+      "status": "PASS",
+      "count": 50,
+      "gain": 392.070036240321
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_R25_T30_wall_Hnone_history_r0",
+      "status": "PASS",
+      "count": 25,
+      "gain": 16.546001571440883
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_R25_T30_wall_Hnone_history_r2",
+      "status": "PASS",
+      "count": 25,
+      "gain": 16.546001571440883
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_conformal_R25_T30_wall_Hnone_removal_r0",
+      "status": "PASS",
+      "count": 25,
+      "gain": 17.739762840534137
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_conformal_R25_T30_wall_Hnone_history_r2",
+      "status": "PASS",
+      "count": 50,
+      "gain": 457.3756883595637
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_R5_T30_wall_Hnone_removal_r2",
+      "status": "PASS",
+      "count": 5,
+      "gain": 13.313589334366089
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_R1_T30_wall_Hnone_history_r0",
+      "status": "PASS",
+      "count": 2,
+      "gain": 17.259768646361966
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_R1_T30_wall_Hnone_removal_r1",
+      "status": "PASS",
+      "count": 1,
+      "gain": 0.4105272311208452
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_R25_T30_wall_Hnone_history_r1",
+      "status": "PASS",
+      "count": 50,
+      "gain": 396.8024316408613
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_conformal_R25_T30_wall_Hnone_history_r2",
+      "status": "PASS",
+      "count": 25,
+      "gain": 17.739762840534137
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_R5_T30_wall_Hnone_history_r2",
+      "status": "PASS",
+      "count": 10,
+      "gain": 86.3813569255361
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_R5_T30_wall_Hnone_removal_r0",
+      "status": "PASS",
+      "count": 5,
+      "gain": 13.313589334366089
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_R25_T30_wall_Hnone_removal_r0",
+      "status": "PASS",
+      "count": 25,
+      "gain": 16.546001571440883
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_conformal_R25_T30_wall_Hnone_history_r1",
+      "status": "PASS",
+      "count": 50,
+      "gain": 457.3756883595637
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_R5_T30_wall_Hnone_history_r1",
+      "status": "PASS",
+      "count": 5,
+      "gain": 13.313589334366089
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_conformal_R1_T30_wall_Hnone_removal_r0",
+      "status": "PASS",
+      "count": 1,
+      "gain": 0.5869126199779875
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_conformal_R1_T30_wall_Hnone_history_r2",
+      "status": "PASS",
+      "count": 2,
+      "gain": 38.55835079745964
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_R1_T30_wall_Hnone_history_r1",
+      "status": "PASS",
+      "count": 2,
+      "gain": 17.259768646361966
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_conformal_R1_T30_wall_Hnone_history_r1",
+      "status": "PASS",
+      "count": 1,
+      "gain": 0.5869126199779875
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_R5_T30_wall_Hnone_removal_r1",
+      "status": "PASS",
+      "count": 5,
+      "gain": 2.516110958267646
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_R5_T30_wall_Hnone_history_r2",
+      "status": "PASS",
+      "count": 5,
+      "gain": 2.516110958267646
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_conformal_R25_T30_wall_Hnone_removal_r0",
+      "status": "PASS",
+      "count": 25,
+      "gain": 132.60825830065488
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_R25_T30_wall_Hnone_history_r1",
+      "status": "PASS",
+      "count": 25,
+      "gain": 16.546001571440883
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_R5_T30_wall_Hnone_history_r1",
+      "status": "PASS",
+      "count": 5,
+      "gain": 2.516110958267646
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_conformal_R1_T30_wall_Hnone_removal_r0",
+      "status": "PASS",
+      "count": 1,
+      "gain": 4.369523817938071
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_conformal_R5_T30_wall_Hnone_removal_r0",
+      "status": "PASS",
+      "count": 5,
+      "gain": 20.660268969993457
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_conformal_R25_T30_wall_Hnone_history_r0",
+      "status": "PASS",
+      "count": 50,
+      "gain": 457.28558152528035
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_R1_T30_wall_Hnone_history_r1",
+      "status": "PASS",
+      "count": 1,
+      "gain": 0.4105272311208452
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_conformal_R25_T30_wall_Hnone_removal_r2",
+      "status": "PASS",
+      "count": 25,
+      "gain": 17.739762840534137
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_R25_T30_wall_Hnone_removal_r0",
+      "status": "PASS",
+      "count": 25,
+      "gain": 98.36561046175366
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_R1_T30_wall_Hnone_removal_r2",
+      "status": "PASS",
+      "count": 1,
+      "gain": 1.5339878399986508
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_R1_T30_wall_Hnone_history_r0",
+      "status": "PASS",
+      "count": 1,
+      "gain": 0.4105272311208452
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_conformal_R25_T30_wall_Hnone_history_r0",
+      "status": "PASS",
+      "count": 25,
+      "gain": 17.739762840534137
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_R25_T30_wall_Hnone_removal_r2",
+      "status": "PASS",
+      "count": 25,
+      "gain": 16.546001571440883
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_R5_T30_wall_Hnone_removal_r2",
+      "status": "PASS",
+      "count": 5,
+      "gain": 2.516110958267646
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_R5_T30_wall_Hnone_history_r0",
+      "status": "PASS",
+      "count": 5,
+      "gain": 2.516110958267646
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_R1_T30_event_Hnone_history_r0",
+      "status": "PASS",
+      "count": 683,
+      "gain": 608.4982925763137
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_R1_T30_event_Hnone_removal_r0",
+      "status": "PASS",
+      "count": 683,
+      "gain": 608.4982925763137
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_R1_T30_event_H120_history_r0",
+      "status": "PASS",
+      "count": 4,
+      "gain": 29.430142570138322
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_R1_T30_event_H120_removal_r0",
+      "status": "PASS",
+      "count": 4,
+      "gain": 29.430142570138322
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_R5_T30_event_Hnone_history_r0",
+      "status": "PASS",
+      "count": 684,
+      "gain": 604.3044149142341
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_R5_T30_event_Hnone_removal_r0",
+      "status": "PASS",
+      "count": 684,
+      "gain": 604.3044149142341
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_R5_T30_event_H120_history_r0",
+      "status": "PASS",
+      "count": 20,
+      "gain": 108.07247532671951
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_R5_T30_event_H120_removal_r0",
+      "status": "PASS",
+      "count": 20,
+      "gain": 108.07247532671951
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_R25_T30_event_Hnone_history_r0",
+      "status": "PASS",
+      "count": 684,
+      "gain": 604.3044149142341
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_R25_T30_event_Hnone_removal_r0",
+      "status": "PASS",
+      "count": 684,
+      "gain": 604.3044149142341
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_R25_T30_event_H120_history_r0",
+      "status": "PASS",
+      "count": 100,
+      "gain": 343.59774860628096
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_R25_T30_event_H120_removal_r0",
+      "status": "PASS",
+      "count": 100,
+      "gain": 343.59774860628096
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_conformal_R1_T30_event_Hnone_history_r0",
+      "status": "PASS",
+      "count": 594,
+      "gain": 665.8362769433489
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_conformal_R1_T30_event_Hnone_removal_r0",
+      "status": "PASS",
+      "count": 594,
+      "gain": 665.8362769433489
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_conformal_R1_T30_event_H120_history_r0",
+      "status": "PASS",
+      "count": 4,
+      "gain": 29.41338731987344
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_conformal_R1_T30_event_H120_removal_r0",
+      "status": "PASS",
+      "count": 4,
+      "gain": 29.41338731987344
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_conformal_R5_T30_event_Hnone_history_r0",
+      "status": "PASS",
+      "count": 594,
+      "gain": 663.5005843937943
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_conformal_R5_T30_event_Hnone_removal_r0",
+      "status": "PASS",
+      "count": 594,
+      "gain": 663.5005843937943
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_conformal_R5_T30_event_H120_history_r0",
+      "status": "PASS",
+      "count": 20,
+      "gain": 101.7299962887031
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_conformal_R5_T30_event_H120_removal_r0",
+      "status": "PASS",
+      "count": 20,
+      "gain": 101.7299962887031
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_conformal_R25_T30_event_Hnone_history_r0",
+      "status": "PASS",
+      "count": 594,
+      "gain": 663.5005843937943
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_conformal_R25_T30_event_Hnone_removal_r0",
+      "status": "PASS",
+      "count": 594,
+      "gain": 663.5005843937943
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_conformal_R25_T30_event_H120_history_r0",
+      "status": "PASS",
+      "count": 100,
+      "gain": 333.5074019168314
+    },
+    {
+      "run_id": "runs/D1/bpic2012_adaptive_proba_cate_conformal_R25_T30_event_H120_removal_r0",
+      "status": "PASS",
+      "count": 100,
+      "gain": 333.5074019168314
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_R1_T30_event_Hnone_history_r0",
+      "status": "PASS",
+      "count": 632,
+      "gain": 2236.2597905799116
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_R1_T30_event_Hnone_removal_r0",
+      "status": "PASS",
+      "count": 632,
+      "gain": 2236.2597905799116
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_R1_T30_event_H120_history_r0",
+      "status": "PASS",
+      "count": 4,
+      "gain": 52.03310082705516
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_R1_T30_event_H120_removal_r0",
+      "status": "PASS",
+      "count": 4,
+      "gain": 52.03310082705516
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_R5_T30_event_Hnone_history_r0",
+      "status": "PASS",
+      "count": 632,
+      "gain": 2236.3319403024248
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_R5_T30_event_Hnone_removal_r0",
+      "status": "PASS",
+      "count": 632,
+      "gain": 2236.3319403024248
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_R5_T30_event_H120_history_r0",
+      "status": "PASS",
+      "count": 20,
+      "gain": 220.3457393645662
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_R5_T30_event_H120_removal_r0",
+      "status": "PASS",
+      "count": 20,
+      "gain": 220.3457393645662
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_R25_T30_event_Hnone_history_r0",
+      "status": "PASS",
+      "count": 632,
+      "gain": 2236.3319403024248
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_R25_T30_event_Hnone_removal_r0",
+      "status": "PASS",
+      "count": 632,
+      "gain": 2236.3319403024248
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_R25_T30_event_H120_history_r0",
+      "status": "PASS",
+      "count": 100,
+      "gain": 879.4318575499484
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_R25_T30_event_H120_removal_r0",
+      "status": "PASS",
+      "count": 100,
+      "gain": 879.4318575499484
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_conformal_R1_T30_event_Hnone_history_r0",
+      "status": "PASS",
+      "count": 394,
+      "gain": 1679.7068121397413
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_conformal_R1_T30_event_Hnone_removal_r0",
+      "status": "PASS",
+      "count": 394,
+      "gain": 1679.7068121397413
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_conformal_R1_T30_event_H120_history_r0",
+      "status": "PASS",
+      "count": 4,
+      "gain": 70.59159369358248
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_conformal_R1_T30_event_H120_removal_r0",
+      "status": "PASS",
+      "count": 4,
+      "gain": 70.59159369358248
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_conformal_R5_T30_event_Hnone_history_r0",
+      "status": "PASS",
+      "count": 396,
+      "gain": 1647.7347484714026
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_conformal_R5_T30_event_Hnone_removal_r0",
+      "status": "PASS",
+      "count": 396,
+      "gain": 1647.7347484714026
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_conformal_R5_T30_event_H120_history_r0",
+      "status": "PASS",
+      "count": 20,
+      "gain": 252.6552410781052
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_conformal_R5_T30_event_H120_removal_r0",
+      "status": "PASS",
+      "count": 20,
+      "gain": 252.6552410781052
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_conformal_R25_T30_event_Hnone_history_r0",
+      "status": "PASS",
+      "count": 396,
+      "gain": 1647.7347484714026
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_conformal_R25_T30_event_Hnone_removal_r0",
+      "status": "PASS",
+      "count": 396,
+      "gain": 1647.7347484714026
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_conformal_R25_T30_event_H120_history_r0",
+      "status": "PASS",
+      "count": 100,
+      "gain": 917.1406128873061
+    },
+    {
+      "run_id": "runs/D1/bpic2017_adaptive_proba_cate_conformal_R25_T30_event_H120_removal_r0",
+      "status": "PASS",
+      "count": 100,
+      "gain": 917.1406128873061
+    },
+    {
+      "run_id": "runs/L1_windows/bpic2017_adaptive_proba_cate_conformal_R5_T30_wall_Hnone_history_r3",
+      "status": "PASS",
+      "count": 10,
+      "gain": 114.90340255820792
+    },
+    {
+      "run_id": "runs/L1_windows/bpic2017_adaptive_proba_cate_conformal_R5_T30_wall_Hnone_removal_r2",
+      "status": "PASS",
+      "count": 5,
+      "gain": 20.660268969993457
+    },
+    {
+      "run_id": "runs/L1_windows/bpic2017_adaptive_proba_cate_R5_T30_wall_Hnone_removal_r2",
+      "status": "PASS",
+      "count": 5,
+      "gain": 13.313589334366089
+    },
+    {
+      "run_id": "runs/L1_windows/bpic2012_adaptive_proba_cate_R5_T30_wall_Hnone_removal_r3",
+      "status": "PASS",
+      "count": 5,
+      "gain": 2.516110958267646
+    },
+    {
+      "run_id": "runs/L1_windows/bpic2012_adaptive_proba_cate_conformal_R5_T30_wall_Hnone_removal_r2",
+      "status": "PASS",
+      "count": 5,
+      "gain": 3.301503681691199
+    },
+    {
+      "run_id": "runs/L1_windows/bpic2017_adaptive_proba_cate_R5_T30_wall_Hnone_removal_r3",
+      "status": "PASS",
+      "count": 5,
+      "gain": 13.313589334366089
+    },
+    {
+      "run_id": "runs/L1_windows/bpic2012_adaptive_proba_cate_R5_T30_wall_Hnone_history_r1",
+      "status": "PASS",
+      "count": 5,
+      "gain": 2.516110958267646
+    },
+    {
+      "run_id": "runs/L1_windows/bpic2017_adaptive_proba_cate_R5_T30_wall_Hnone_removal_r1",
+      "status": "PASS",
+      "count": 5,
+      "gain": 13.313589334366089
+    },
+    {
+      "run_id": "runs/L1_windows/bpic2012_adaptive_proba_cate_R5_T30_wall_Hnone_removal_r1",
+      "status": "PASS",
+      "count": 5,
+      "gain": 2.516110958267646
+    },
+    {
+      "run_id": "runs/L1_windows/bpic2012_adaptive_proba_cate_R5_T30_wall_Hnone_history_r3",
+      "status": "PASS",
+      "count": 5,
+      "gain": 2.516110958267646
+    },
+    {
+      "run_id": "runs/L1_windows/bpic2017_adaptive_proba_cate_R5_T30_wall_Hnone_history_r2",
+      "status": "PASS",
+      "count": 10,
+      "gain": 85.92039430377388
+    },
+    {
+      "run_id": "runs/L1_windows/bpic2017_adaptive_proba_cate_conformal_R5_T30_wall_Hnone_removal_r3",
+      "status": "PASS",
+      "count": 5,
+      "gain": 20.660268969993457
+    },
+    {
+      "run_id": "runs/L1_windows/bpic2012_adaptive_proba_cate_conformal_R5_T30_wall_Hnone_history_r3",
+      "status": "PASS",
+      "count": 5,
+      "gain": 3.301503681691199
+    },
+    {
+      "run_id": "runs/L1_windows/bpic2017_adaptive_proba_cate_conformal_R5_T30_wall_Hnone_history_r2",
+      "status": "PASS",
+      "count": 10,
+      "gain": 116.47015808741241
+    },
+    {
+      "run_id": "runs/L1_windows/bpic2012_adaptive_proba_cate_conformal_R5_T30_wall_Hnone_removal_r3",
+      "status": "PASS",
+      "count": 5,
+      "gain": 3.301503681691199
+    },
+    {
+      "run_id": "runs/L1_windows/bpic2012_adaptive_proba_cate_conformal_R5_T30_wall_Hnone_history_r1",
+      "status": "PASS",
+      "count": 5,
+      "gain": 3.301503681691199
+    },
+    {
+      "run_id": "runs/L1_windows/bpic2012_adaptive_proba_cate_conformal_R5_T30_wall_Hnone_history_r2",
+      "status": "PASS",
+      "count": 5,
+      "gain": 3.301503681691199
+    },
+    {
+      "run_id": "runs/L1_windows/bpic2012_adaptive_proba_cate_conformal_R5_T30_wall_Hnone_removal_r1",
+      "status": "PASS",
+      "count": 5,
+      "gain": 3.301503681691199
+    },
+    {
+      "run_id": "runs/L1_windows/bpic2012_adaptive_proba_cate_R5_T30_wall_Hnone_removal_r2",
+      "status": "PASS",
+      "count": 5,
+      "gain": 2.516110958267646
+    },
+    {
+      "run_id": "runs/L1_windows/bpic2012_adaptive_proba_cate_R5_T30_wall_Hnone_history_r2",
+      "status": "PASS",
+      "count": 5,
+      "gain": 2.516110958267646
+    },
+    {
+      "run_id": "runs/L1_windows/bpic2017_adaptive_proba_cate_R5_T30_wall_Hnone_history_r3",
+      "status": "PASS",
+      "count": 5,
+      "gain": 13.313589334366089
+    },
+    {
+      "run_id": "runs/L1_windows/bpic2017_adaptive_proba_cate_R5_T30_wall_Hnone_history_r1",
+      "status": "PASS",
+      "count": 10,
+      "gain": 85.92039430377388
+    },
+    {
+      "run_id": "runs/L1_windows/bpic2017_adaptive_proba_cate_conformal_R5_T30_wall_Hnone_removal_r1",
+      "status": "PASS",
+      "count": 5,
+      "gain": 20.660268969993457
+    },
+    {
+      "run_id": "runs/L1_windows/bpic2017_adaptive_proba_cate_conformal_R5_T30_wall_Hnone_history_r1",
+      "status": "PASS",
+      "count": 10,
+      "gain": 116.47015808741241
+    },
+    {
+      "run_id": "runs/boundary/bpic2017_adaptive_proba_cate_R5_T15_wall_Hnone_history_r2",
+      "status": "PASS",
+      "count": 20,
+      "gain": 223.8735081207846
+    },
+    {
+      "run_id": "runs/boundary/bpic2017_adaptive_proba_cate_conformal_R5_T5_wall_Hnone_history_r0",
+      "status": "PASS",
+      "count": 65,
+      "gain": 702.0138409936613
+    },
+    {
+      "run_id": "runs/boundary/bpic2017_adaptive_proba_cate_R5_T60_wall_Hnone_removal_r0",
+      "status": "PASS",
+      "count": 5,
+      "gain": 13.313589334366089
+    },
+    {
+      "run_id": "runs/boundary/bpic2017_adaptive_proba_cate_R5_T60_wall_Hnone_removal_r1",
+      "status": "PASS",
+      "count": 5,
+      "gain": 13.313589334366089
+    },
+    {
+      "run_id": "runs/boundary/bpic2017_adaptive_proba_cate_R5_T15_wall_Hnone_history_r1",
+      "status": "PASS",
+      "count": 20,
+      "gain": 231.42925745161116
+    },
+    {
+      "run_id": "runs/boundary/bpic2017_adaptive_proba_cate_conformal_R5_T15_wall_Hnone_history_r2",
+      "status": "PASS",
+      "count": 20,
+      "gain": 251.65678392750945
+    },
+    {
+      "run_id": "runs/boundary/bpic2017_adaptive_proba_cate_R5_T5_wall_Hnone_history_r1",
+      "status": "PASS",
+      "count": 45,
+      "gain": 504.48442285709905
+    },
+    {
+      "run_id": "runs/boundary/bpic2017_adaptive_proba_cate_conformal_R5_T5_wall_Hnone_removal_r2",
+      "status": "PASS",
+      "count": 5,
+      "gain": 20.660268969993457
+    },
+    {
+      "run_id": "runs/boundary/bpic2017_adaptive_proba_cate_R5_T15_wall_Hnone_removal_r1",
+      "status": "PASS",
+      "count": 5,
+      "gain": 13.313589334366089
+    },
+    {
+      "run_id": "runs/boundary/bpic2017_adaptive_proba_cate_conformal_R5_T60_wall_Hnone_removal_r2",
+      "status": "PASS",
+      "count": 5,
+      "gain": 20.660268969993457
+    },
+    {
+      "run_id": "runs/boundary/bpic2017_adaptive_proba_cate_R5_T15_wall_Hnone_history_r0",
+      "status": "PASS",
+      "count": 20,
+      "gain": 222.56480990454173
+    },
+    {
+      "run_id": "runs/boundary/bpic2017_adaptive_proba_cate_conformal_R5_T60_wall_Hnone_history_r2",
+      "status": "PASS",
+      "count": 10,
+      "gain": 99.6089608090357
+    },
+    {
+      "run_id": "runs/boundary/bpic2017_adaptive_proba_cate_R5_T5_wall_Hnone_removal_r2",
+      "status": "PASS",
+      "count": 5,
+      "gain": 13.313589334366089
+    },
+    {
+      "run_id": "runs/boundary/bpic2017_adaptive_proba_cate_conformal_R5_T60_wall_Hnone_removal_r1",
+      "status": "PASS",
+      "count": 5,
+      "gain": 20.660268969993457
+    },
+    {
+      "run_id": "runs/boundary/bpic2017_adaptive_proba_cate_R5_T5_wall_Hnone_removal_r1",
+      "status": "PASS",
+      "count": 5,
+      "gain": 13.313589334366089
+    },
+    {
+      "run_id": "runs/boundary/bpic2017_adaptive_proba_cate_conformal_R5_T15_wall_Hnone_removal_r0",
+      "status": "PASS",
+      "count": 5,
+      "gain": 20.660268969993457
+    },
+    {
+      "run_id": "runs/boundary/bpic2017_adaptive_proba_cate_conformal_R5_T60_wall_Hnone_removal_r0",
+      "status": "PASS",
+      "count": 5,
+      "gain": 20.660268969993457
+    },
+    {
+      "run_id": "runs/boundary/bpic2017_adaptive_proba_cate_R5_T60_wall_Hnone_history_r0",
+      "status": "PASS",
+      "count": 5,
+      "gain": 13.313589334366089
+    },
+    {
+      "run_id": "runs/boundary/bpic2017_adaptive_proba_cate_R5_T15_wall_Hnone_removal_r0",
+      "status": "PASS",
+      "count": 5,
+      "gain": 13.313589334366089
+    },
+    {
+      "run_id": "runs/boundary/bpic2017_adaptive_proba_cate_R5_T15_wall_Hnone_removal_r2",
+      "status": "PASS",
+      "count": 5,
+      "gain": 13.313589334366089
+    },
+    {
+      "run_id": "runs/boundary/bpic2017_adaptive_proba_cate_conformal_R5_T15_wall_Hnone_removal_r2",
+      "status": "PASS",
+      "count": 5,
+      "gain": 20.660268969993457
+    },
+    {
+      "run_id": "runs/boundary/bpic2017_adaptive_proba_cate_R5_T5_wall_Hnone_removal_r0",
+      "status": "PASS",
+      "count": 5,
+      "gain": 13.313589334366089
+    },
+    {
+      "run_id": "runs/boundary/bpic2017_adaptive_proba_cate_conformal_R5_T5_wall_Hnone_removal_r1",
+      "status": "PASS",
+      "count": 5,
+      "gain": 20.660268969993457
+    },
+    {
+      "run_id": "runs/boundary/bpic2017_adaptive_proba_cate_conformal_R5_T15_wall_Hnone_history_r1",
+      "status": "PASS",
+      "count": 20,
+      "gain": 229.2798466850414
+    },
+    {
+      "run_id": "runs/boundary/bpic2017_adaptive_proba_cate_R5_T5_wall_Hnone_history_r2",
+      "status": "PASS",
+      "count": 50,
+      "gain": 545.4622133189979
+    },
+    {
+      "run_id": "runs/boundary/bpic2017_adaptive_proba_cate_R5_T60_wall_Hnone_history_r1",
+      "status": "PASS",
+      "count": 5,
+      "gain": 13.313589334366089
+    },
+    {
+      "run_id": "runs/boundary/bpic2017_adaptive_proba_cate_conformal_R5_T5_wall_Hnone_removal_r0",
+      "status": "PASS",
+      "count": 5,
+      "gain": 20.660268969993457
+    },
+    {
+      "run_id": "runs/boundary/bpic2017_adaptive_proba_cate_conformal_R5_T60_wall_Hnone_history_r1",
+      "status": "PASS",
+      "count": 5,
+      "gain": 20.660268969993457
+    },
+    {
+      "run_id": "runs/boundary/bpic2017_adaptive_proba_cate_conformal_R5_T60_wall_Hnone_history_r0",
+      "status": "PASS",
+      "count": 5,
+      "gain": 20.660268969993457
+    },
+    {
+      "run_id": "runs/boundary/bpic2017_adaptive_proba_cate_R5_T5_wall_Hnone_history_r0",
+      "status": "PASS",
+      "count": 50,
+      "gain": 549.6952168302842
+    },
+    {
+      "run_id": "runs/boundary/bpic2017_adaptive_proba_cate_R5_T60_wall_Hnone_removal_r2",
+      "status": "PASS",
+      "count": 5,
+      "gain": 13.313589334366089
+    },
+    {
+      "run_id": "runs/boundary/bpic2017_adaptive_proba_cate_conformal_R5_T15_wall_Hnone_history_r0",
+      "status": "PASS",
+      "count": 25,
+      "gain": 311.9234903032178
+    },
+    {
+      "run_id": "runs/boundary/bpic2017_adaptive_proba_cate_conformal_R5_T5_wall_Hnone_history_r1",
+      "status": "PASS",
+      "count": 55,
+      "gain": 613.65521043703
+    },
+    {
+      "run_id": "runs/boundary/bpic2017_adaptive_proba_cate_R5_T60_wall_Hnone_history_r2",
+      "status": "PASS",
+      "count": 5,
+      "gain": 13.313589334366089
+    },
+    {
+      "run_id": "runs/boundary/bpic2017_adaptive_proba_cate_conformal_R5_T15_wall_Hnone_removal_r1",
+      "status": "PASS",
+      "count": 5,
+      "gain": 20.660268969993457
+    },
+    {
+      "run_id": "runs/boundary/bpic2017_adaptive_proba_cate_conformal_R5_T5_wall_Hnone_history_r2",
+      "status": "PASS",
+      "count": 55,
+      "gain": 611.7059146046947
+    },
+    {
+      "run_id": "runs/boundary/bpic2017_adaptive_proba_cate_R5_T5_event_H120_history_r0",
+      "status": "PASS",
+      "count": 105,
+      "gain": 1078.8100571701757
+    },
+    {
+      "run_id": "runs/boundary/bpic2017_adaptive_proba_cate_R5_T5_event_H120_removal_r0",
+      "status": "PASS",
+      "count": 105,
+      "gain": 1078.8100571701757
+    },
+    {
+      "run_id": "runs/boundary/bpic2017_adaptive_proba_cate_R5_T15_event_H120_history_r0",
+      "status": "PASS",
+      "count": 40,
+      "gain": 445.6907515282426
+    },
+    {
+      "run_id": "runs/boundary/bpic2017_adaptive_proba_cate_R5_T15_event_H120_removal_r0",
+      "status": "PASS",
+      "count": 40,
+      "gain": 445.6907515282426
+    },
+    {
+      "run_id": "runs/boundary/bpic2017_adaptive_proba_cate_R5_T60_event_H120_history_r0",
+      "status": "PASS",
+      "count": 10,
+      "gain": 89.14700981587461
+    },
+    {
+      "run_id": "runs/boundary/bpic2017_adaptive_proba_cate_R5_T60_event_H120_removal_r0",
+      "status": "PASS",
+      "count": 10,
+      "gain": 89.14700981587461
+    },
+    {
+      "run_id": "runs/boundary/bpic2017_adaptive_proba_cate_conformal_R5_T5_event_H120_history_r0",
+      "status": "PASS",
+      "count": 98,
+      "gain": 984.1754999726008
+    },
+    {
+      "run_id": "runs/boundary/bpic2017_adaptive_proba_cate_conformal_R5_T5_event_H120_removal_r0",
+      "status": "PASS",
+      "count": 98,
+      "gain": 984.1754999726008
+    },
+    {
+      "run_id": "runs/boundary/bpic2017_adaptive_proba_cate_conformal_R5_T15_event_H120_history_r0",
+      "status": "PASS",
+      "count": 38,
+      "gain": 449.40614976098124
+    },
+    {
+      "run_id": "runs/boundary/bpic2017_adaptive_proba_cate_conformal_R5_T15_event_H120_removal_r0",
+      "status": "PASS",
+      "count": 38,
+      "gain": 449.40614976098124
+    },
+    {
+      "run_id": "runs/boundary/bpic2017_adaptive_proba_cate_conformal_R5_T60_event_H120_history_r0",
+      "status": "PASS",
+      "count": 10,
+      "gain": 113.19129072744587
+    },
+    {
+      "run_id": "runs/boundary/bpic2017_adaptive_proba_cate_conformal_R5_T60_event_H120_removal_r0",
+      "status": "PASS",
+      "count": 10,
+      "gain": 113.19129072744587
+    },
+    {
+      "run_id": "runs/calibration/bpic2012_classBalanced_proba_cate_conformal_R5_T30_wall_Hnone_removal_r1",
+      "status": "PASS",
+      "count": 5,
+      "gain": 5.015057218133531
+    },
+    {
+      "run_id": "runs/calibration/bpic2017_classBalanced_proba_cate_conformal_R5_T30_wall_Hnone_history_r2",
+      "status": "PASS",
+      "count": 20,
+      "gain": 184.10241275904787
+    },
+    {
+      "run_id": "runs/calibration/bpic2017_classBalanced_proba_cate_conformal_R25_T30_wall_Hnone_history_r0",
+      "status": "PASS",
+      "count": 91,
+      "gain": 524.3453545580873
+    },
+    {
+      "run_id": "runs/calibration/bpic2012_classBalanced_proba_cate_R5_T30_wall_Hnone_history_r1",
+      "status": "PASS",
+      "count": 5,
+      "gain": 2.516110958267646
+    },
+    {
+      "run_id": "runs/calibration/bpic2017_classBalanced_proba_cate_conformal_R25_T30_wall_Hnone_removal_r1",
+      "status": "PASS",
+      "count": 25,
+      "gain": 113.31381924318114
+    },
+    {
+      "run_id": "runs/calibration/bpic2017_classBalanced_proba_cate_R25_T30_wall_Hnone_history_r0",
+      "status": "PASS",
+      "count": 75,
+      "gain": 637.4322148151529
+    },
+    {
+      "run_id": "runs/calibration/bpic2012_classBalanced_proba_cate_conformal_R5_T30_wall_Hnone_history_r2",
+      "status": "PASS",
+      "count": 5,
+      "gain": 5.015057218133531
+    },
+    {
+      "run_id": "runs/calibration/bpic2012_classBalanced_proba_cate_conformal_R5_T30_wall_Hnone_removal_r0",
+      "status": "PASS",
+      "count": 5,
+      "gain": 5.015057218133531
+    },
+    {
+      "run_id": "runs/calibration/bpic2017_classBalanced_proba_cate_conformal_R5_T30_wall_Hnone_history_r1",
+      "status": "PASS",
+      "count": 20,
+      "gain": 184.10241275904787
+    },
+    {
+      "run_id": "runs/calibration/bpic2012_classBalanced_proba_cate_conformal_R25_T30_wall_Hnone_removal_r1",
+      "status": "PASS",
+      "count": 25,
+      "gain": 57.49153290471873
+    },
+    {
+      "run_id": "runs/calibration/bpic2012_classBalanced_proba_cate_R25_T30_wall_Hnone_history_r1",
+      "status": "PASS",
+      "count": 25,
+      "gain": 16.546001571440883
+    },
+    {
+      "run_id": "runs/calibration/bpic2017_classBalanced_proba_cate_conformal_R5_T30_wall_Hnone_removal_r2",
+      "status": "PASS",
+      "count": 5,
+      "gain": 34.5864947357993
+    },
+    {
+      "run_id": "runs/calibration/bpic2012_classBalanced_proba_cate_conformal_R5_T30_wall_Hnone_removal_r2",
+      "status": "PASS",
+      "count": 5,
+      "gain": 5.015057218133531
+    },
+    {
+      "run_id": "runs/calibration/bpic2012_classBalanced_proba_cate_R5_T30_wall_Hnone_removal_r1",
+      "status": "PASS",
+      "count": 5,
+      "gain": 2.516110958267646
+    },
+    {
+      "run_id": "runs/calibration/bpic2017_classBalanced_proba_cate_R5_T30_wall_Hnone_history_r0",
+      "status": "PASS",
+      "count": 15,
+      "gain": 156.11521469147556
+    },
+    {
+      "run_id": "runs/calibration/bpic2017_classBalanced_proba_cate_R5_T30_wall_Hnone_removal_r1",
+      "status": "PASS",
+      "count": 5,
+      "gain": 13.313589334366089
+    },
+    {
+      "run_id": "runs/calibration/bpic2012_classBalanced_proba_cate_conformal_R25_T30_wall_Hnone_removal_r0",
+      "status": "PASS",
+      "count": 25,
+      "gain": 57.49153290471873
+    },
+    {
+      "run_id": "runs/calibration/bpic2012_classBalanced_proba_cate_R5_T30_wall_Hnone_history_r2",
+      "status": "PASS",
+      "count": 5,
+      "gain": 2.516110958267646
+    },
+    {
+      "run_id": "runs/calibration/bpic2017_classBalanced_proba_cate_R25_T30_wall_Hnone_history_r2",
+      "status": "PASS",
+      "count": 50,
+      "gain": 414.7883721341902
+    },
+    {
+      "run_id": "runs/calibration/bpic2012_classBalanced_proba_cate_conformal_R25_T30_wall_Hnone_history_r1",
+      "status": "PASS",
+      "count": 25,
+      "gain": 57.49153290471873
+    },
+    {
+      "run_id": "runs/calibration/bpic2017_classBalanced_proba_cate_conformal_R25_T30_wall_Hnone_history_r2",
+      "status": "PASS",
+      "count": 54,
+      "gain": 365.67228266914964
+    },
+    {
+      "run_id": "runs/calibration/bpic2017_classBalanced_proba_cate_conformal_R5_T30_wall_Hnone_history_r0",
+      "status": "PASS",
+      "count": 14,
+      "gain": 128.24049232836188
+    },
+    {
+      "run_id": "runs/calibration/bpic2012_classBalanced_proba_cate_conformal_R5_T30_wall_Hnone_history_r0",
+      "status": "PASS",
+      "count": 5,
+      "gain": 5.015057218133531
+    },
+    {
+      "run_id": "runs/calibration/bpic2017_classBalanced_proba_cate_R25_T30_wall_Hnone_removal_r0",
+      "status": "PASS",
+      "count": 25,
+      "gain": 98.36561046175366
+    },
+    {
+      "run_id": "runs/calibration/bpic2017_classBalanced_proba_cate_conformal_R25_T30_wall_Hnone_history_r1",
+      "status": "PASS",
+      "count": 54,
+      "gain": 365.67228266914964
+    },
+    {
+      "run_id": "runs/calibration/bpic2012_classBalanced_proba_cate_R5_T30_wall_Hnone_removal_r2",
+      "status": "PASS",
+      "count": 5,
+      "gain": 2.516110958267646
+    },
+    {
+      "run_id": "runs/calibration/bpic2017_classBalanced_proba_cate_R5_T30_wall_Hnone_history_r1",
+      "status": "PASS",
+      "count": 10,
+      "gain": 93.00151257986415
+    },
+    {
+      "run_id": "runs/calibration/bpic2012_classBalanced_proba_cate_R25_T30_wall_Hnone_removal_r0",
+      "status": "PASS",
+      "count": 25,
+      "gain": 16.546001571440883
+    },
+    {
+      "run_id": "runs/calibration/bpic2017_classBalanced_proba_cate_R5_T30_wall_Hnone_history_r2",
+      "status": "PASS",
+      "count": 10,
+      "gain": 91.32008426839889
+    },
+    {
+      "run_id": "runs/calibration/bpic2012_classBalanced_proba_cate_conformal_R25_T30_wall_Hnone_history_r2",
+      "status": "PASS",
+      "count": 25,
+      "gain": 57.49153290471873
+    },
+    {
+      "run_id": "runs/calibration/bpic2017_classBalanced_proba_cate_R25_T30_wall_Hnone_removal_r1",
+      "status": "PASS",
+      "count": 25,
+      "gain": 98.36561046175366
+    },
+    {
+      "run_id": "runs/calibration/bpic2012_classBalanced_proba_cate_R25_T30_wall_Hnone_removal_r1",
+      "status": "PASS",
+      "count": 25,
+      "gain": 16.546001571440883
+    },
+    {
+      "run_id": "runs/calibration/bpic2017_classBalanced_proba_cate_conformal_R5_T30_wall_Hnone_removal_r1",
+      "status": "PASS",
+      "count": 5,
+      "gain": 34.5864947357993
+    },
+    {
+      "run_id": "runs/calibration/bpic2017_classBalanced_proba_cate_R25_T30_wall_Hnone_removal_r2",
+      "status": "PASS",
+      "count": 25,
+      "gain": 98.36561046175366
+    },
+    {
+      "run_id": "runs/calibration/bpic2017_classBalanced_proba_cate_conformal_R25_T30_wall_Hnone_removal_r0",
+      "status": "PASS",
+      "count": 25,
+      "gain": 113.31381924318114
+    },
+    {
+      "run_id": "runs/calibration/bpic2012_classBalanced_proba_cate_conformal_R5_T30_wall_Hnone_history_r1",
+      "status": "PASS",
+      "count": 5,
+      "gain": 5.015057218133531
+    },
+    {
+      "run_id": "runs/calibration/bpic2012_classBalanced_proba_cate_R25_T30_wall_Hnone_history_r0",
+      "status": "PASS",
+      "count": 25,
+      "gain": 16.546001571440883
+    },
+    {
+      "run_id": "runs/calibration/bpic2017_classBalanced_proba_cate_R5_T30_wall_Hnone_removal_r2",
+      "status": "PASS",
+      "count": 5,
+      "gain": 13.313589334366089
+    },
+    {
+      "run_id": "runs/calibration/bpic2012_classBalanced_proba_cate_R5_T30_wall_Hnone_history_r0",
+      "status": "PASS",
+      "count": 5,
+      "gain": 2.516110958267646
+    },
+    {
+      "run_id": "runs/calibration/bpic2017_classBalanced_proba_cate_conformal_R25_T30_wall_Hnone_removal_r2",
+      "status": "PASS",
+      "count": 25,
+      "gain": 113.31381924318114
+    },
+    {
+      "run_id": "runs/calibration/bpic2012_classBalanced_proba_cate_conformal_R25_T30_wall_Hnone_removal_r2",
+      "status": "PASS",
+      "count": 25,
+      "gain": 57.49153290471873
+    },
+    {
+      "run_id": "runs/calibration/bpic2017_classBalanced_proba_cate_R5_T30_wall_Hnone_removal_r0",
+      "status": "PASS",
+      "count": 5,
+      "gain": 13.313589334366089
+    },
+    {
+      "run_id": "runs/calibration/bpic2012_classBalanced_proba_cate_R25_T30_wall_Hnone_history_r2",
+      "status": "PASS",
+      "count": 25,
+      "gain": 16.546001571440883
+    },
+    {
+      "run_id": "runs/calibration/bpic2017_classBalanced_proba_cate_conformal_R5_T30_wall_Hnone_removal_r0",
+      "status": "PASS",
+      "count": 5,
+      "gain": 34.5864947357993
+    },
+    {
+      "run_id": "runs/calibration/bpic2012_classBalanced_proba_cate_conformal_R25_T30_wall_Hnone_history_r0",
+      "status": "PASS",
+      "count": 26,
+      "gain": 64.58146915789662
+    },
+    {
+      "run_id": "runs/calibration/bpic2017_classBalanced_proba_cate_R25_T30_wall_Hnone_history_r1",
+      "status": "PASS",
+      "count": 50,
+      "gain": 422.90238064617506
+    },
+    {
+      "run_id": "runs/calibration/bpic2012_classBalanced_proba_cate_R5_T30_wall_Hnone_removal_r0",
+      "status": "PASS",
+      "count": 5,
+      "gain": 2.516110958267646
+    },
+    {
+      "run_id": "runs/calibration/bpic2012_classBalanced_proba_cate_R25_T30_wall_Hnone_removal_r2",
+      "status": "PASS",
+      "count": 25,
+      "gain": 16.546001571440883
+    },
+    {
+      "run_id": "runs/calibration/bpic2012_classBalanced_proba_cate_R5_T30_event_Hnone_history_r0",
+      "status": "PASS",
+      "count": 684,
+      "gain": 604.3044149142341
+    },
+    {
+      "run_id": "runs/calibration/bpic2012_classBalanced_proba_cate_R5_T30_event_Hnone_removal_r0",
+      "status": "PASS",
+      "count": 684,
+      "gain": 604.3044149142341
+    },
+    {
+      "run_id": "runs/calibration/bpic2012_classBalanced_proba_cate_R5_T30_event_H120_history_r0",
+      "status": "PASS",
+      "count": 20,
+      "gain": 108.07247532671951
+    },
+    {
+      "run_id": "runs/calibration/bpic2012_classBalanced_proba_cate_R5_T30_event_H120_removal_r0",
+      "status": "PASS",
+      "count": 20,
+      "gain": 108.07247532671951
+    },
+    {
+      "run_id": "runs/calibration/bpic2012_classBalanced_proba_cate_R25_T30_event_Hnone_history_r0",
+      "status": "PASS",
+      "count": 684,
+      "gain": 604.3044149142341
+    },
+    {
+      "run_id": "runs/calibration/bpic2012_classBalanced_proba_cate_R25_T30_event_Hnone_removal_r0",
+      "status": "PASS",
+      "count": 684,
+      "gain": 604.3044149142341
+    },
+    {
+      "run_id": "runs/calibration/bpic2012_classBalanced_proba_cate_R25_T30_event_H120_history_r0",
+      "status": "PASS",
+      "count": 100,
+      "gain": 343.59774860628096
+    },
+    {
+      "run_id": "runs/calibration/bpic2012_classBalanced_proba_cate_R25_T30_event_H120_removal_r0",
+      "status": "PASS",
+      "count": 100,
+      "gain": 343.59774860628096
+    },
+    {
+      "run_id": "runs/calibration/bpic2012_classBalanced_proba_cate_conformal_R5_T30_event_Hnone_history_r0",
+      "status": "PASS",
+      "count": 51,
+      "gain": 97.81159227392425
+    },
+    {
+      "run_id": "runs/calibration/bpic2012_classBalanced_proba_cate_conformal_R5_T30_event_Hnone_removal_r0",
+      "status": "PASS",
+      "count": 51,
+      "gain": 97.81159227392425
+    },
+    {
+      "run_id": "runs/calibration/bpic2012_classBalanced_proba_cate_conformal_R5_T30_event_H120_history_r0",
+      "status": "PASS",
+      "count": 17,
+      "gain": 68.3420021708584
+    },
+    {
+      "run_id": "runs/calibration/bpic2012_classBalanced_proba_cate_conformal_R5_T30_event_H120_removal_r0",
+      "status": "PASS",
+      "count": 17,
+      "gain": 68.3420021708584
+    },
+    {
+      "run_id": "runs/calibration/bpic2012_classBalanced_proba_cate_conformal_R25_T30_event_Hnone_history_r0",
+      "status": "PASS",
+      "count": 51,
+      "gain": 97.81159227392425
+    },
+    {
+      "run_id": "runs/calibration/bpic2012_classBalanced_proba_cate_conformal_R25_T30_event_Hnone_removal_r0",
+      "status": "PASS",
+      "count": 51,
+      "gain": 97.81159227392425
+    },
+    {
+      "run_id": "runs/calibration/bpic2012_classBalanced_proba_cate_conformal_R25_T30_event_H120_history_r0",
+      "status": "PASS",
+      "count": 51,
+      "gain": 103.5431440475382
+    },
+    {
+      "run_id": "runs/calibration/bpic2012_classBalanced_proba_cate_conformal_R25_T30_event_H120_removal_r0",
+      "status": "PASS",
+      "count": 51,
+      "gain": 103.5431440475382
+    },
+    {
+      "run_id": "runs/calibration/bpic2017_classBalanced_proba_cate_R5_T30_event_Hnone_history_r0",
+      "status": "PASS",
+      "count": 632,
+      "gain": 2236.3319403024248
+    },
+    {
+      "run_id": "runs/calibration/bpic2017_classBalanced_proba_cate_R5_T30_event_Hnone_removal_r0",
+      "status": "PASS",
+      "count": 632,
+      "gain": 2236.3319403024248
+    },
+    {
+      "run_id": "runs/calibration/bpic2017_classBalanced_proba_cate_R5_T30_event_H120_history_r0",
+      "status": "PASS",
+      "count": 20,
+      "gain": 220.3457393645662
+    },
+    {
+      "run_id": "runs/calibration/bpic2017_classBalanced_proba_cate_R5_T30_event_H120_removal_r0",
+      "status": "PASS",
+      "count": 20,
+      "gain": 220.3457393645662
+    },
+    {
+      "run_id": "runs/calibration/bpic2017_classBalanced_proba_cate_R25_T30_event_Hnone_history_r0",
+      "status": "PASS",
+      "count": 632,
+      "gain": 2236.3319403024248
+    },
+    {
+      "run_id": "runs/calibration/bpic2017_classBalanced_proba_cate_R25_T30_event_Hnone_removal_r0",
+      "status": "PASS",
+      "count": 632,
+      "gain": 2236.3319403024248
+    },
+    {
+      "run_id": "runs/calibration/bpic2017_classBalanced_proba_cate_R25_T30_event_H120_history_r0",
+      "status": "PASS",
+      "count": 100,
+      "gain": 879.4318575499484
+    },
+    {
+      "run_id": "runs/calibration/bpic2017_classBalanced_proba_cate_R25_T30_event_H120_removal_r0",
+      "status": "PASS",
+      "count": 100,
+      "gain": 879.4318575499484
+    },
+    {
+      "run_id": "runs/calibration/bpic2017_classBalanced_proba_cate_conformal_R5_T30_event_Hnone_history_r0",
+      "status": "PASS",
+      "count": 116,
+      "gain": 545.0938473206471
+    },
+    {
+      "run_id": "runs/calibration/bpic2017_classBalanced_proba_cate_conformal_R5_T30_event_Hnone_removal_r0",
+      "status": "PASS",
+      "count": 116,
+      "gain": 545.0938473206471
+    },
+    {
+      "run_id": "runs/calibration/bpic2017_classBalanced_proba_cate_conformal_R5_T30_event_H120_history_r0",
+      "status": "PASS",
+      "count": 20,
+      "gain": 185.17806999166163
+    },
+    {
+      "run_id": "runs/calibration/bpic2017_classBalanced_proba_cate_conformal_R5_T30_event_H120_removal_r0",
+      "status": "PASS",
+      "count": 20,
+      "gain": 185.17806999166163
+    },
+    {
+      "run_id": "runs/calibration/bpic2017_classBalanced_proba_cate_conformal_R25_T30_event_Hnone_history_r0",
+      "status": "PASS",
+      "count": 116,
+      "gain": 545.0938473206471
+    },
+    {
+      "run_id": "runs/calibration/bpic2017_classBalanced_proba_cate_conformal_R25_T30_event_Hnone_removal_r0",
+      "status": "PASS",
+      "count": 116,
+      "gain": 545.0938473206471
+    },
+    {
+      "run_id": "runs/calibration/bpic2017_classBalanced_proba_cate_conformal_R25_T30_event_H120_history_r0",
+      "status": "PASS",
+      "count": 72,
+      "gain": 456.07132067237853
+    },
+    {
+      "run_id": "runs/calibration/bpic2017_classBalanced_proba_cate_conformal_R25_T30_event_H120_removal_r0",
+      "status": "PASS",
+      "count": 72,
+      "gain": 456.07132067237853
+    },
+    {
+      "run_id": "runs/linux/bpic2017_adaptive_proba_cate_conformal_R5_T30_wall_Hnone_history_r3",
+      "status": "PASS",
+      "count": 5,
+      "gain": 20.660268969993457
+    },
+    {
+      "run_id": "runs/linux/bpic2017_adaptive_proba_cate_conformal_R5_T30_wall_Hnone_removal_r2",
+      "status": "PASS",
+      "count": 5,
+      "gain": 20.660268969993457
+    },
+    {
+      "run_id": "runs/linux/bpic2017_adaptive_proba_cate_R5_T30_wall_Hnone_removal_r2",
+      "status": "PASS",
+      "count": 5,
+      "gain": 13.313589334366089
+    },
+    {
+      "run_id": "runs/linux/bpic2012_adaptive_proba_cate_R5_T30_wall_Hnone_removal_r3",
+      "status": "PASS",
+      "count": 5,
+      "gain": 2.516110958267646
+    },
+    {
+      "run_id": "runs/linux/bpic2012_adaptive_proba_cate_conformal_R5_T30_wall_Hnone_removal_r2",
+      "status": "PASS",
+      "count": 5,
+      "gain": 3.301503681691199
+    },
+    {
+      "run_id": "runs/linux/bpic2017_adaptive_proba_cate_R5_T30_wall_Hnone_removal_r3",
+      "status": "PASS",
+      "count": 5,
+      "gain": 13.313589334366089
+    },
+    {
+      "run_id": "runs/linux/bpic2012_adaptive_proba_cate_R5_T30_wall_Hnone_history_r1",
+      "status": "PASS",
+      "count": 5,
+      "gain": 2.516110958267646
+    },
+    {
+      "run_id": "runs/linux/bpic2017_adaptive_proba_cate_R5_T30_wall_Hnone_removal_r1",
+      "status": "PASS",
+      "count": 5,
+      "gain": 13.313589334366089
+    },
+    {
+      "run_id": "runs/linux/bpic2012_adaptive_proba_cate_R5_T30_wall_Hnone_removal_r1",
+      "status": "PASS",
+      "count": 5,
+      "gain": 2.516110958267646
+    },
+    {
+      "run_id": "runs/linux/bpic2012_adaptive_proba_cate_R5_T30_wall_Hnone_history_r3",
+      "status": "PASS",
+      "count": 5,
+      "gain": 2.516110958267646
+    },
+    {
+      "run_id": "runs/linux/bpic2017_adaptive_proba_cate_R5_T30_wall_Hnone_history_r2",
+      "status": "PASS",
+      "count": 5,
+      "gain": 13.313589334366089
+    },
+    {
+      "run_id": "runs/linux/bpic2017_adaptive_proba_cate_conformal_R5_T30_wall_Hnone_removal_r3",
+      "status": "PASS",
+      "count": 5,
+      "gain": 20.660268969993457
+    },
+    {
+      "run_id": "runs/linux/bpic2012_adaptive_proba_cate_conformal_R5_T30_wall_Hnone_history_r3",
+      "status": "PASS",
+      "count": 5,
+      "gain": 3.301503681691199
+    },
+    {
+      "run_id": "runs/linux/bpic2017_adaptive_proba_cate_conformal_R5_T30_wall_Hnone_history_r2",
+      "status": "PASS",
+      "count": 5,
+      "gain": 20.660268969993457
+    },
+    {
+      "run_id": "runs/linux/bpic2012_adaptive_proba_cate_conformal_R5_T30_wall_Hnone_removal_r3",
+      "status": "PASS",
+      "count": 5,
+      "gain": 3.301503681691199
+    },
+    {
+      "run_id": "runs/linux/bpic2012_adaptive_proba_cate_conformal_R5_T30_wall_Hnone_history_r1",
+      "status": "PASS",
+      "count": 5,
+      "gain": 3.301503681691199
+    },
+    {
+      "run_id": "runs/linux/bpic2012_adaptive_proba_cate_conformal_R5_T30_wall_Hnone_history_r2",
+      "status": "PASS",
+      "count": 5,
+      "gain": 3.301503681691199
+    },
+    {
+      "run_id": "runs/linux/bpic2012_adaptive_proba_cate_conformal_R5_T30_wall_Hnone_removal_r1",
+      "status": "PASS",
+      "count": 5,
+      "gain": 3.301503681691199
+    },
+    {
+      "run_id": "runs/linux/bpic2012_adaptive_proba_cate_R5_T30_wall_Hnone_removal_r2",
+      "status": "PASS",
+      "count": 5,
+      "gain": 2.516110958267646
+    },
+    {
+      "run_id": "runs/linux/bpic2012_adaptive_proba_cate_R5_T30_wall_Hnone_history_r2",
+      "status": "PASS",
+      "count": 5,
+      "gain": 2.516110958267646
+    },
+    {
+      "run_id": "runs/linux/bpic2017_adaptive_proba_cate_R5_T30_wall_Hnone_history_r3",
+      "status": "PASS",
+      "count": 5,
+      "gain": 13.313589334366089
+    },
+    {
+      "run_id": "runs/linux/bpic2017_adaptive_proba_cate_R5_T30_wall_Hnone_history_r1",
+      "status": "PASS",
+      "count": 5,
+      "gain": 13.313589334366089
+    },
+    {
+      "run_id": "runs/linux/bpic2017_adaptive_proba_cate_conformal_R5_T30_wall_Hnone_removal_r1",
+      "status": "PASS",
+      "count": 5,
+      "gain": 20.660268969993457
+    },
+    {
+      "run_id": "runs/linux/bpic2017_adaptive_proba_cate_conformal_R5_T30_wall_Hnone_history_r1",
+      "status": "PASS",
+      "count": 5,
+      "gain": 20.660268969993457
+    },
+    {
+      "run_id": "runs/rank_validation/bpic2017_classBalanced_proba_cate_R25_T30_wall_Hnone_removal_r1",
+      "status": "PASS",
+      "count": 25,
+      "gain": 98.36561046175366
+    },
+    {
+      "run_id": "runs/rank_validation/bpic2017_classBalanced_proba_cate_conformal_R25_T30_wall_Hnone_history_r3",
+      "status": "PASS",
+      "count": 104,
+      "gain": 537.1208896119117
+    },
+    {
+      "run_id": "runs/rank_validation/bpic2017_classBalanced_proba_cate_R25_T30_wall_Hnone_history_r1",
+      "status": "PASS",
+      "count": 50,
+      "gain": 422.1709222122103
+    },
+    {
+      "run_id": "runs/rank_validation/bpic2017_classBalanced_proba_cate_conformal_R25_T30_wall_Hnone_history_r1",
+      "status": "PASS",
+      "count": 75,
+      "gain": 472.03427167164637
+    },
+    {
+      "run_id": "runs/rank_validation/bpic2017_classBalanced_proba_cate_conformal_R25_T30_wall_Hnone_removal_r3",
+      "status": "PASS",
+      "count": 25,
+      "gain": 113.31381924318114
+    },
+    {
+      "run_id": "runs/rank_validation/bpic2017_classBalanced_proba_cate_R25_T30_wall_Hnone_history_r2",
+      "status": "PASS",
+      "count": 50,
+      "gain": 402.3551720653621
+    },
+    {
+      "run_id": "runs/rank_validation/bpic2017_classBalanced_proba_cate_conformal_R25_T30_wall_Hnone_removal_r1",
+      "status": "PASS",
+      "count": 25,
+      "gain": 113.31381924318114
+    },
+    {
+      "run_id": "runs/rank_validation/bpic2017_classBalanced_proba_cate_R25_T30_wall_Hnone_removal_r3",
+      "status": "PASS",
+      "count": 25,
+      "gain": 98.36561046175366
+    },
+    {
+      "run_id": "runs/rank_validation/bpic2017_classBalanced_proba_cate_conformal_R25_T30_wall_Hnone_history_r2",
+      "status": "PASS",
+      "count": 75,
+      "gain": 473.40265893693896
+    },
+    {
+      "run_id": "runs/rank_validation/bpic2017_classBalanced_proba_cate_R25_T30_wall_Hnone_history_r3",
+      "status": "PASS",
+      "count": 50,
+      "gain": 402.3551720653621
+    },
+    {
+      "run_id": "runs/rank_validation/bpic2017_classBalanced_proba_cate_conformal_R25_T30_wall_Hnone_removal_r2",
+      "status": "PASS",
+      "count": 25,
+      "gain": 113.31381924318114
+    },
+    {
+      "run_id": "runs/rank_validation/bpic2017_classBalanced_proba_cate_R25_T30_wall_Hnone_removal_r2",
+      "status": "PASS",
+      "count": 25,
+      "gain": 98.36561046175366
+    }
+  ]
+}

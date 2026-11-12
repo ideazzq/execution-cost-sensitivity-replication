@@ -1,0 +1,59 @@
+{
+  "checked_at": "2026-11-05T09:13:58.405737+00:00",
+  "contract_fixtures": {
+    "count": 8,
+    "exit_code": 0,
+    "output": "........\n----------------------------------------------------------------------\nRan 8 tests in 0.001s\n\nOK\n"
+  },
+  "source_variants": {
+    "history.py": {
+      "normalized_text_equal": true,
+      "AST_equal": true,
+      "generated_sha256": "d387bc7ed38e6ba5c0a46933a0f1664ddc18a10da85c0fb56ba8b468d386c980"
+    },
+    "removal.py": {
+      "normalized_text_equal": true,
+      "AST_equal": true,
+      "generated_sha256": "0b2751a0d969b0ccd3f93846c221ef2c1b2f148f9777abe4e1d27c5e1bb2df2c"
+    }
+  },
+  "download_hashes": {
+    "prpm/source/run_experiments_all.py": true,
+    "prpm/source/FilterCases.py": true,
+    "prpm/source/ResourceAllocator.py": true,
+    "prpm/source/estimateFutureScores.py": true,
+    "prpm/data/bpic2012_adaptive.csv": true,
+    "prpm/data/bpic2017_adaptive.csv": true,
+    "prpm/data/bpic2012_classBalanced.csv": true,
+    "prpm/data/bpic2017_classBalanced.csv": true,
+    "mupromac/README.md": true,
+    "mupromac/fifo.py": true,
+    "mupromac/framework/__init__.py": true,
+    "mupromac/framework/config.py": true,
+    "mupromac/framework/config_training.py": true,
+    "mupromac/framework/processes.py": true,
+    "mupromac/framework/result_helper.py": true,
+    "mupromac/framework/rw_config_training.py": true,
+    "mupromac/framework/simulator.py": true,
+    "mupromac/requirements.txt": true
+  },
+  "reference_conditions": 46,
+  "completed_source_comparisons": 92,
+  "reference_comparisons_passed": 92,
+  "audited_run_rows": 308,
+  "reproduced_tables": {
+    "source_pairs.csv": {
+      "rows": 154,
+      "status": "PASS"
+    },
+    "policy_comparisons.csv": {
+      "rows": 154,
+      "status": "PASS"
+    }
+  },
+  "original_source_entrypoint": {
+    "full_runs": 12,
+    "all_exit_zero": true,
+    "timeout_containment_pass": true
+  }
+}

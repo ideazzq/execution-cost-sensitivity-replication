@@ -1,0 +1,20 @@
+--- original/run_experiments_all.py
++++ generated/history.py
+@@ -66,7 +66,7 @@
+ alpha_condition_val = list(alpha_dict.keys())[list(alpha_dict.values()).index("[1]")]
+ 
+ data['alpha_col'] = data['alpha_col'].astype('category').cat.codes#.astype(np.float64)
+-data_dict = data.to_dict("record")
++data_dict = data.to_dict("records")
+ 
+ # t_dist = dist
+ if t_dist == "normal":
+@@ -212,7 +212,7 @@
+ for k, v in treated_cases.items():
+     print(k)
+     print(v)
+-    df = df.append(pd.Series(v), ignore_index=True)
++    df = pd.concat([df, pd.Series(v).to_frame().T], ignore_index=True)
+ 
+ #df_gains_with_res_2_1.columns = ['case_id', 'gain', 'prefix_nr', 'Activity', ]
+ df.to_csv(results_dir + data_name + "_" + str(resources)+'.csv', index=False, sep=';')
