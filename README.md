@@ -3,7 +3,7 @@
 Replication package and deterministic logical-calendar reference for:
 
 > **Execution-Cost Sensitivity in Offline Prescriptive Process Monitoring**  
-> Zhiyu Wang, Zhiqi Zhang, and Chen Yan*  
+> Zhiqi Zhang, Zhiyu Wang, and Chen Yan*  
 > Taiyuan University of Technology, China
 
 ## Repository Layout
